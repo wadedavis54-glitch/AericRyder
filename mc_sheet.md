@@ -55,8 +55,9 @@
 
 ## Techniques
 
-* **[Null Cycling — Lvl 1]** — Forcibly pulls ambient Aether from the air, and — **only via direct bare-skin contact with a target that is already dying** — leeches their fleeing life-Aether out of them before it scatters, breaking both into raw, neutral Null fuel through immense physical agony. Weapon contact alone never triggers this; the touch on a dying body is a separate, deliberate act.
+* **[Null Cycling — Lvl 1]** — Forcibly pulls ambient Aether from the air, and — **only via direct bare-skin contact with a target that is already dying** — leeches their fleeing life-Aether out of them before it scatters, breaking both into raw, neutral Null fuel. The draw itself feels **good** — a dark, intoxicating rush, not pain — which is the addiction hook. Weapon contact alone never triggers this; the touch on a dying body is a separate, deliberate act.
   * *Next evolution (locked — Act I):* **[Foundation Siphon]** — via the same dying-target touch, predatory rip of foundation (Meridian Theft / Trait-Aspect fragments / Core Harvest); enables Painful Reconstruction; risks Impure Aether Sediment.
+  * **Sensation rule:** The leech-draw = pleasurable rush. Spending stolen vitality on **Painful Reconstruction** (healing torn tissue) = agony (molten-wire burn). Meridian Opening (forcing new pathways) stays its own separate friction-pain, unrelated to the leech.
   * *Later (locked):* Pilfering Aspect seed **Rust & Void** → long-term **Sovereign Plunder**.
 
 ## Titles
@@ -109,6 +110,7 @@
 * Book 1 endgate (Act III): high-risk Foundation Siphon → stable Core condensation → **2nd Realm: Copper Core**.
 * **Aether rule:** Ambient = unowned; Bound = ethereal host-only until Siphon/Null breaks the bind. No gaseous/liquid Dantian phase language.
 * **Siphon trigger rule (retcon, locked):** Siphon only fires through direct bare-skin touch on a target that is already dying — never off a weapon still in the wound, never at range, never on a healthy target. Ch1 (Cur) and Ch2 (Beetle) siphon beats revised to show the deliberate touch.
+* **Siphon sensation rule (retcon, locked):** The leech-draw itself is pleasurable (dark rush, relief, unsettling satisfaction) — not painful. Painful Reconstruction (spending the stolen vitality on healing) is where the agony lives. Ch1/Ch2 siphon beats revised to flip the sensation from "swallowing broken glass" to a rush that scares Aeric more because it feels good.
 * Realm ladder (author): **Mortal Strata** Unforged → Copper → Iron → Silver → Gold → Aether Sovereign *(Foundation Peak / primary-school graduation)* → **Ascendant Strata** → **Architect Strata**. 6th is not the cosmic end. No Shop while Earth is nursery.
 * World (author only): ×1000 expansion. No safe havens. Book 1 map in `@world_primer.md`; siphon rules in `@system_mechanics.md`.
 * Idealistic Rival + Vellath-linked opposing Guardian: seed Act II, collide Act III — not yet on-page.

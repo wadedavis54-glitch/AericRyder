@@ -71,17 +71,21 @@ Aeric shoved his palm flat against the wound, fingers sinking past cracked chiti
 
 Null Cycling woke through the contact, and it was nothing like the Cur.
 
-Not a polite trickle. A *pull*—hungry, stupid, greedy—ripping at the beetle’s dying heat like his Dantian had grown teeth around his own wrist. Ambient Aether, hostile scrap, whatever slurry lived in the thing’s guts: all of it tried to shove up his arm and into him at once. Meridians that weren’t open screamed. The three cleared paths flared white-hot. The rest stayed clogged and punished him for wanting more.
+Not a polite trickle. A *pull*—hungry, greedy, and *good* in a way that scared him worse than pain would have. His Dantian had grown teeth around his own wrist, and it liked what it was tasting. Ambient Aether, the beetle’s dying heat, whatever slurry lived in its guts—all of it poured up his arm in one warm rush, and for a heartbeat it felt like the first hit of something he already knew he’d want again.
 
-It felt like swallowing broken glass and calling it dinner.
+*Yes. More. Why does this—*
+
+Then the flood hit ceilings that weren’t there yet.
+
+The three cleared paths lit white-hot, carrying what they could. The rest stayed clogged and punished him for wanting more than three narrow pipes could hold—pressure stacking up behind scar-tissue walls until it felt like swallowing broken glass on top of the good part, both true at once, reward and rupture-risk shoving through the same door.
 
 For half a second the pull, still running down his own arm, found something denser under his palm—a hard little knot buried in the ichor, like a seed—and Aeric’s gut *lunged* for it, hand pressing harder like he could claw it out through want alone.
 
-Then the knot slipped. Or he slipped. The Cycle choked, coughed sludge-taste up the back of his throat, and settled for burning raw fuel into the shin-rake and palm-splinters hard enough to cauterize without healing clean.
+Then the knot slipped. Or he slipped. The Cycle choked on its own excess, backed up, and settled for shoving the overflow into the shin-rake and palm-splinters instead—cauterizing them shut with a burn that had nothing pleasant left in it, ugly and half-sealed, healing without healing clean.
 
-*What the fuck was that. That wasn’t cycling. That was theft. Through my own hand. Shit. I want it again. That’s bad. That’s useful. Same thing now?*
+*What the fuck was that. That wasn’t cycling. That was theft, and it felt like a reward, and then it felt like punishment for taking too much. Through my own hand. Shit. I want it again anyway. That’s bad. That’s useful. Same thing now?*
 
-“Control it,” Mariusz snapped, and there was real anger under the scholar-voice—fear dressed as instruction. “You put your hand on a dying thing and yank like a drowning man, you will rupture what little you’ve opened. Residue first. Foundations later. You are not ready to eat a core whole.”
+“Control it,” Mariusz snapped, and there was real anger under the scholar-voice—fear dressed as instruction. “A dying thing will always feel like it wants you back. That does not mean drink the whole flood. You yank like a drowning man, you will rupture what little you’ve opened. Residue first. Foundations later. You are not ready to eat a core whole.”
 
 *Core. He said core. File that. Also: drowning man. Accurate.*
 

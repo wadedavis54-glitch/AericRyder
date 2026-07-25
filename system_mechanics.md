@@ -14,6 +14,7 @@
 * **Cores / Seeds:** Condensed knots of bound Aether in beasts (and later stronger foes). Physical/semi-physical harvest targets for cultivation, crafting, or siphon fuel.
 * **Siphon / Null exception:** Theft is not “borrowing MP.” Null Cycling and Foundation Siphon **break the bind**, strip foreign signatures, and force the ethereal fuel into the thief’s Dantian as Null. Painful. Sediment = failed/corrupt conversion.
 * **Contact requirement:** The break-bind theft cannot happen through a weapon or at range. It requires **direct skin contact with a target that is already dying** — Aeric plants a bare hand against flesh, wound, or ichor while the target's life-Aether is actively fleeing the body, and drags that fleeing current into his own Dantian. A killing blow alone (spear, fist, claw) takes a life; it does not, by itself, take anything *from* it. See §6a.
+* **Sensation split (critical, do not blur):** Drawing the leech itself in feels **good** — a dark rush, relief, something close to pleasure. Spending that stolen vitality on **Painful Reconstruction** (forcing torn tissue shut) is where the agony lives. Never write the touch-leech as pain and the healing as painless — it is the opposite way round. See §6a and Painful Reconstruction below.
 
 ## 2. Body Attributes (Measured Frame)
 
@@ -126,7 +127,8 @@ There are **no System Classes**, **no Classers**, **no skill slots**, and **no f
 * **What it is, mechanically:** Aeric's Dantian reaches through the contact point and **pulls the fleeing life-Aether** — the raw current a body sheds as it dies — into himself before it dissipates into Ambient. He is not draining a living, fighting target's reserves; he is catching what a dying one is already losing and claiming it as Null.
 * **What it is not:** Not automatic on kill. Not triggered by the spear/weapon still in the wound. Not usable on a healthy, stable, or merely wounded-but-stabilizing target — there has to be a dying current to catch.
 * **On-page requirement:** Every siphon must show the discrete touch beat — a hand planted, palm pressed to ichor, fingers digging into a wound — as its own action, distinct from and after the killing strike. Land the kill with the weapon; leech with the hand.
-* **Cost:** Identical agony/sediment rules as elsewhere in this doc (glass-through-veins burn, Impure Aether Sediment risk on low-tier spam) — the touch requirement changes *how* the theft is initiated, not what it costs once it starts.
+* **Sensation:** The draw itself is **pleasurable** — a dark, intoxicating rush of relief and satisfaction, not pain. Write it that way every time. It is precisely *because* it feels good that it's dangerous: Aeric has to fight the urge to want the next dying thing, not fight the pain of taking it.
+* **Cost:** Sediment risk still applies on low-tier spam (Impure Aether Sediment, clog / Meridian Rupture risk — see below) and Meridian Opening remains its own separate friction-agony. But the leech-draw itself is not where the pain is. The pain shows up later, when the stolen fuel gets spent on **Painful Reconstruction**.
 
 ## 6. Aeric’s Path — Sovereign Plunder (Pilfering Aspect)
 
@@ -146,12 +148,14 @@ Upon making bare-skin contact with a target that is already dying (see §6a — 
 * **Meridian Theft:** Siphon pure meridian alignment to force his own 108 pathways open faster than manual friction alone.
 * **Trait & Aspect Siphoning:** Extract fragments of unique body refinements, elemental affinities, or physical traits. Incomplete fragments need Mariusz theory + further kills to stabilize.
 * **Core Harvest:** Extract physical Aether cores/seeds from beasts for future crafting or cultivation fuel.
-* Not free stats. Not a loot menu. Always costly in pain, sediment risk, and attention.
+* Not free stats. Not a loot menu. The draw itself feels good; the cost shows up as sediment risk, attention, and — if any of it gets spent on healing — Painful Reconstruction.
 
 ### Painful Reconstruction (Siphoned Healing)
 
+*This is where the pain lives — not the leech-draw itself (see §6a). Drawing the life-Aether in is the pleasurable part; forcing it into his own ruined tissue is the toll.*
+
 * Siphoning does **not** heal like a health potion.
-* It forcibly drags raw, unrefined vitality out of a corpse and **cauterizes / re-binds** torn muscle, skin, and bone.
+* It forcibly drags raw, unrefined vitality that already feels like a stolen high and shoves it into **cauterizing / re-binding** torn muscle, skin, and bone — and that conversion is where the sensation flips hard from pleasure to agony.
 * **Agony:** Feels like molten wire sewn through open nerves.
 * **`[Stubborn Will]`** scales with damage load to keep him conscious while the body is forcibly re-stitched.
 * Injuries still persist if he doesn’t pay the cost — no hand-waved recovery between scenes.

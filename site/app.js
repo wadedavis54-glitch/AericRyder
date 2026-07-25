@@ -135,7 +135,7 @@ async function renderChapter(id) {
   content.innerHTML = `<p class="loading">Loading…</p>`;
 
   try {
-    const res = await fetch(`${chapter.file}?v=3`, { cache: "no-store" });
+    const res = await fetch(`${chapter.file}?v=4`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
     const markdown = await res.text();
     const imageHtml = chapter.image

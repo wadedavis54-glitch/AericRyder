@@ -359,13 +359,17 @@ It wanted—not vague hunger, *specific* hunger, like a hand already reaching fo
 
 *What am I doing. Why is my hand— why does this feel like the important part—*
 
-Null Cycling woke and bit down through the contact.
+Null Cycling woke and pulled through the contact.
 
-Not the grease-thick ambient scrape from the void. Something narrower. Aimed. A straw dropped into a glass already tipping empty. He felt the Cur’s last current—thin, animal, guttering—get caught mid-flight and dragged sideways into him instead of dissolving into the air the way it wanted to. It didn’t feel like breathing something in.
+Not the grease-thick ambient scrape from the void. Something narrower. Warmer. A straw dropped into a glass already tipping empty—and what came up through it didn’t scrape. It *flowed*, easy and rich, like the first full breath after holding one too long. He felt the Cur’s last current—thin, animal, guttering—get caught mid-flight and poured into him instead of dissolving into the air the way it wanted to.
 
-It felt like robbing a dying thing of the last coin in its fist before the fingers went slack.
+It felt good.
 
-Somewhere else a scream cut short. His wounds were very real. The stolen trickle burned the edges of torn meat shut as fuel—ugly, half-sealed, cauterizing without healing clean.
+Not victory-good. Not relief-good. Something lower and worse—warm behind his sternum, spreading loose and easy into limbs that had spent the last minute screaming. A dark little bloom of *yes* that had no business existing next to a corpse.
+
+*Oh. Oh, that’s bad. That’s really, really bad. Why did that feel like— why do I already want it to happen again—*
+
+Somewhere else a scream cut short. His wounds were very real. When the stolen current hit torn meat and forced itself into sealing the wounds shut, the good feeling curdled fast into something else entirely—friction, heat, a cauterizing burn with nothing gentle left in it, ugly and half-sealed, healing without healing clean.
 
 Thriving wasn’t the word.
 
