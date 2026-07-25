@@ -11,7 +11,7 @@
 **Method:** Devouring Cycle *(Unrefined)*  
 **Long-term Path (author):** Sovereign Plunder *(Pilfering Aspect — locked; seed only)*  
 **Realm:** Unforged (1st Realm) — **Stage 2: Seeded Dantian** (trace bound Null / Siphon Seed — Unstable)  
-**Level:** 1 *(Guardian measurement only; not a gift track)*  
+**Level:** 1 *(Integration Index — derived; not XP. Recalculates on foundation shifts only. See `@system_mechanics.md` §9.)*  
 
 **Strength:** 12  
 **Dexterity:** 11  
@@ -19,7 +19,7 @@
 **Perception:** 13 *(Analytical Eye synergy)*  
 **Intelligence:** 12  
 **Wisdom:** 11  
-*Baseline human average is 10. No free attribute points.*
+*Baseline human average is 10. No free attribute points. Gains are sourced only (innate, meridian clusters, tempering, siphon fragments, realm breakthrough) — log source on sheet.*
 
 **Meridians Cleared:** 4 / 108  
 **Dantian Binding:** 2.7% *(Seeded — Unstable)*  
@@ -115,6 +115,7 @@
 * **Aether rule:** Ambient = unowned; Bound = ethereal host-only until Siphon/Null breaks the bind. No gaseous/liquid Dantian phase language.
 * **Siphon trigger rule (retcon, locked):** Siphon only fires through direct bare-skin touch on a target that is already dying — never off a weapon still in the wound, never at range, never on a healthy target. Ch1 (Cur) and Ch2 (Beetle) siphon beats revised to show the deliberate touch.
 * **Siphon sensation rule (retcon, locked):** The leech-draw itself is pleasurable (dark rush, relief, unsettling satisfaction) — not painful. Painful Reconstruction (spending the stolen vitality on healing) is where the agony lives. Ch1/Ch2 siphon beats revised to flip the sensation from "swallowing broken glass" to a rush that scares Aeric more because it feels good.
+* **Level / stats (Option A — locked):** **Level = Integration Index** (derived threat rating, not XP). Aeric stays **Level 1** until ~10 meridians + Foundation Siphon unless foundation audit recalculates. **No stat point menus.** See `@system_mechanics.md` §9.
 * Realm ladder (author): **Mortal Strata** Unforged → Copper → Iron → Silver → Gold → Aether Sovereign *(Foundation Peak / primary-school graduation)* → **Ascendant Strata** → **Architect Strata**. 6th is not the cosmic end. No Shop while Earth is nursery.
 * World (author only): ×1000 expansion. No safe havens. Book 1 map in `@world_primer.md`; siphon rules in `@system_mechanics.md`.
 * Idealistic Rival + Vellath-linked opposing Guardian: seed Act II, collide Act III — not yet on-page.

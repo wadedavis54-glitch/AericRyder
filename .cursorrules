@@ -118,7 +118,7 @@ When showing Aeric's stats / attributes (Guardian status, audits, sheet dumps, l
 > **Race:** Human
 > **Cultivation:** Null / Void *(Unfurl)* | **Path:** Hollow Origin *(Unsealed / Manual)*
 > **Realm:** Unforged (1st Realm)
-> **Level:** 1
+> **Level:** 1 *(Integration Index — derived; not XP)*
 > **Strength:** 12
 > **Dexterity:** 11
 > **Vitality:** 14
@@ -184,7 +184,7 @@ Mandatory fields: **Entity**, **Level**, **Threat**. Use species/type label unde
 
 1. ALWAYS reference `@system_mechanics.md` and `@mc_sheet.md` for stat and cultivation logic; `@world_primer.md` for author-facing Day Zero reality. **Do not dump primer facts into narration.**
 2. FORMATTING FOR FULL STATUS: use the **Status Screen Format** above. For targets use **Scan Format** (people = Name/Race/Level; creatures = Entity/Level/Threat). Short combat audits may append kill notes beneath a STATUS block or a compact follow-up line — never replace the LitRPG sheet with unexplained stat soup. Named Scanned people keep their name in prose.
-3. STAT MATH IS ABSOLUTE. Do not grant stats, traits, techniques, titles, feats, items, levels, Aether stores, or cultivation breakthroughs without updating `@mc_sheet.md`.
+3. STAT MATH IS ABSOLUTE. Do not grant stats, traits, techniques, titles, feats, items, levels, Aether stores, or cultivation breakthroughs without updating `@mc_sheet.md`. **Level** recalculates only on foundation shifts (§9 `@system_mechanics.md`) — never for kills alone. **Stats** require a named source; no free attribute points.
 4. Never offer Class selection, Classer identity, skill-slot loadouts, or free attribute points. Templates may appear as soft cages to be rejected.
 5. Injuries persist; healing costs time, Aether, items, cultivation effort, or **Painful Reconstruction** via siphon — never potion-clean hand-waves. Sediment backlash is real.
 6. Mariusz may show emotion and stake, but never becomes a soft babysitter. No Shop/Marketplace.

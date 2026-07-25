@@ -200,3 +200,136 @@ Upon making bare-skin contact with a target that is already dying (see §6a — 
 * *Example:* High Strength + few opened Meridians = powerful hits, but slow energy delivery (telegraphed techniques).
 * *Example:* Cycling through clogged Meridians is excruciating — Aether scrapes through like glass dragged through veins.
 * *Example:* Foundation Siphon without sediment burns = short-term power, medium-term rupture risk.
+
+## 9. Level & Stat Progression — Option A (Locked)
+
+> **Locked design.** Level is a **derived Integration Index**, not an XP track. **No distributable stat points.** Realm + Meridians are the primary reader-facing ladder; stats tick slowly from named sources.
+
+### Three tracks (do not merge)
+
+| Track | Fields | What moves it | Reader hook |
+|-------|--------|---------------|-------------|
+| **Cultivation** | Realm, Meridians, Dantian Binding %, Techniques, Traits, Aspect | Cycling, Meridian Opening, Core refinement, siphon mastery | Breaking the cage |
+| **Frame** | STR, DEX, VIT, PER, INT, WIS | Tempering, meridian clusters, siphon bias, realm breakthroughs | Hitting harder, surviving, seeing more |
+| **Integration Index** | **Level** (single number) | *Recalculated* when foundation changes — never spent | Scan math; “why am I still Level 1?” |
+
+* **Primary progression felt on-page:** Cultivation track first. Frame track second. Level moves rarely.
+
+### Level = Integration Index (derived, not XP)
+
+**Level** is the Interface’s composite **threat / integration rating** — a blunt label for Scan comparisons. It is **not** awarded for kills, quests, or milestone pop-ups. Mariusz may call it a harvest grade or conduit rating (bitter, later).
+
+**Recalculate** (Guardian audit) only when foundation materially shifts, e.g.:
+
+* Realm stage change (Unforged → Copper Core, etc.)
+* Meridian **band** crossed (see bands below)
+* Dantian Binding crosses major stability thresholds (e.g. Seeded → approaching stable Core)
+* Major technique tier unlock (Null Cycling Lvl 2, Foundation Siphon online, etc.)
+* Template scaffold subsidy (templates only — see curve table)
+
+**Do not** bump Level because Aeric won a fight, cleared a chapter, or gained +1 STR.
+
+#### Meridian bands (Unforged — author)
+
+| Meridians cleared | Band | Typical Aeric Level (Unsealed) |
+|-------------------|------|--------------------------------|
+| 0–9 | Clogged / early seed | **1** |
+| 10–27 | Open frame forming | **1–2** *(first recalc usually here, with Foundation Siphon online)* |
+| 28–54 | Mid foundation | **2–3** |
+| 55–108 | Pre-breakthrough peak | **3–4** |
+
+*Exact Level within a band also weighs Dantian Binding %, techniques, and traits. Unsealed hosts often **under-score** vs raw capability — the System lowballs non-scaffold builds.*
+
+#### Creatures vs humans
+
+* **Creatures:** Level = **spawn tier / ecological role**, not cultivation rank. A Level 3 Carrion Beetle is not a “Level 3 cultivator.”
+* **Humans:** Same Integration Index. Template hosts may show **higher Level earlier** with **lower real ceiling** (scaffold inflation).
+
+#### Template vs Unsealed (Level curve)
+
+| | **Template (Warrior / Weaver / Warden)** | **Unsealed / Manual (Aeric)** |
+|---|------------------------------------------|-------------------------------|
+| Early Level | Jumps to 2–3 quickly (scaffold subsidy) | Stays **1** long while meridians climb |
+| Early stats | +2–3 in path-bias stats on rails | Innate baseline + meridian drips only |
+| Mid Mortal Strata | Hard cap (~3rd–4th Realm typical) | No artificial cap; slower, uglier |
+| Level meaning | “Compliant conduit” | “System can’t grade you cleanly” |
+
+**Discovery POV:** Aeric may ask why he’s still Level 1 after killing higher-Level things. Mariusz explains the index measures **integrated scaffold compliance**, not raw lethality — rejected scaffolds get lowballed.
+
+### Stats — no points, only sourced gains
+
+**Never** offer +STR menus, level-up attribute picks, or free point dumps. Every stat increase must have a **named source** logged on `@mc_sheet.md`.
+
+#### 1. Innate baseline (Day Zero)
+
+* Population average ≈ **10** per attribute.
+* Individual hosts vary at integration (Aeric: 12 / 11 / 14 / 13 / 12 / 11) — **pre-integration person**, not System gifts.
+* Templates add **scaffold rails** on top (path-biased early bumps), not innate rerolls.
+
+#### 2. Meridian cluster drips (steady, slow)
+
+Every **5 meridians cleared** *(or specific cluster completion — author call per milestone)*, **+1 to one stat** (not all six). First drip typically no earlier than **5 / 108**.
+
+| Cluster (author map) | Stat bias | Fiction |
+|----------------------|-----------|---------|
+| Arms / hands / shoulders | STR or DEX | Weapon channels, grip, strike delivery |
+| Torso / spine / gut | VIT | Holds Cycle load, core stability |
+| Legs / root / stance | DEX or VIT | Footwork, balance under load |
+| Head / breath / sense | PER | Scan clarity, threat reads |
+| Mind / intent pathways (late; ~40+ open) | INT or WIS | Technique math, Aspect judgment |
+
+*Show on-page via `[ CYCLE AUDIT ]` or compact STATUS note: `Frame Note: +1 PER — sense cluster cleared`.*
+
+#### 3. Body Tempering (Copper Core+ primary; foreshadow Act I)
+
+Siphoned vitality **routed to frame** (not healing, not raw storage):
+
+* Fast / precise prey → **DEX** bias  
+* Dense / tank prey → **VIT** or **STR** bias  
+* Sensory / ambush prey → **PER** bias  
+
+Aeric chooses implicitly via hunt selection + Mariusz steering. Analytical Eye supports cold optimization — not a menu.
+
+#### 4. Foundation Siphon fragments (Act I+)
+
+* **Meridian Theft** → accelerates meridian count (not direct +stat)
+* **Trait / Aspect fragments** → micro-trait **or** +1 in related stat after Mariusz stabilizes
+* **Core Harvest** → currency / breakthrough fuel / crafting — not bulk +5 STR
+
+#### 5. Realm breakthrough (rare lump sum)
+
+On major Realm condensation (Book 1: **Unforged → Copper Core**): **+1 or +2 to all six stats once**, framed as Core recalibrating the frame — not a level-up screen. Log source: `Realm breakthrough — Copper Core`.
+
+### What replaces “level up” dopamine
+
+| Moment | Interface beat |
+|--------|----------------|
+| Meridian opened / cluster milestone | `[ CYCLE AUDIT ]` — channel result; optional frame drip |
+| Technique tier | `[ NEW TECHNIQUE ]` or level bump + Mariusz monologue |
+| Siphon fragment stabilized | Trait or sourced +1 stat |
+| Sediment cleared | Efficiency / survival note (not raw power) |
+| Dantian / Realm shift | Full `[ STATUS ]`; Level may recalculate |
+| Aether Currency spend | **Upgrade Auditor** — technique stabilize, sediment flush assist, meridian map insight (**not** +STR purchases) |
+
+### Aether Currency (spend track — not stats)
+
+Spend via Mariusz as **Upgrade Auditor** only. Examples: Null Cycling stabilization, partial sediment burn protocol, meridian diagram for next cluster. **No Shop UI. No stat packs.**
+
+### Book 1 pacing (Aeric — author)
+
+| Phase | Meridians | Level | Frame stats | Gates |
+|-------|-----------|-------|-------------|-------|
+| Ch 1–3 | 3–4 | **1** | Baseline only | Null Cycling |
+| Act I (~Ch 10) | 10–15 | **1** → **2** at ~10 meridians + Foundation Siphon | +1–2 total from clusters | Crude Foundation Siphon |
+| Act II | 20–40 | 2–3 | +3–5 total; fragments | Core harvest routine |
+| Act III climax | 50+ band | 3–4 pre-breakthrough | Breakthrough bump | **Copper Core** — Level band jump |
+
+*Until ~10 meridians and Foundation Siphon online, Aeric stays **Level 1** on STATUS even when killing higher-Level spawns.*
+
+### Prose / sheet rules
+
+1. **Do not** write “Aeric leveled up” — write “the index flickered” or “Mariusz recalculated” if Level changes.
+2. **Do not** grant Level or stat changes without updating `@mc_sheet.md` and citing source.
+3. **Scan Level** on mobs remains spawn tier; compare to Aeric’s Index for fight math, not fairness.
+4. Aeric’s **[ STATUS ]** always shows Level, but it may lag behind his real lethality — intentional.
+
