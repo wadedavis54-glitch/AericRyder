@@ -6,54 +6,104 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 
 * **NO SYSTEM CLASSES / NO CLASSERS:** Power is built strictly through manual Cycling, Meridian Opening, Dantian Core Refinement, and Intent/Aspect comprehension. There are no Classes, no Classers, no skill-slot loadouts, and no free stat handouts.
 * **WORLD TRANSITION (DAY ZERO):** All human civilization vanishes instantly. Modern cities and technology are erased. The planet expands to **1000x** prior size — a primordial, untamed, monster-ruled wilderness. Humans must survive strictly on their own merits with **no safe havens**. *(Author canon only — see Discovery POV.)*
-* **AETHER SYSTEM:** Aether is the universal energy. It serves as raw ambient fuel, the currency for the Guardian's Shop/Marketplace, and the resource expended during cultivation, upgrades, and cycling.
-* **NULL CYCLING → PILFERING (LONG-TERM):** Aeric's `[Null Cycling]` is the seed of a **pilfering cultivation** path. Later evolutions let him steal / skim Aether, progress, and power from kills, ambient flows, and hostile techniques beyond normal Unforged gains — more power than should be possible for his Realm. Do not fully unlock this early; foreshadow through Null's "devour / break down / claim" nature. When it advances, update `@mc_sheet.md`.
+* **AETHER SYSTEM:** Universal energy in two forms: **Ambient** (unowned world-fuel anyone can Cycle) and **Bound** (ethereal personal fuel natively usable **only by its host**). Dantian = the hollow that holds a host’s claim. Theft requires Null/Siphon to **break the bind**. **No Shop / Marketplace.** No “gaseous/liquid” phase talk for Dantian state.
+* **NULL CYCLING → SOVEREIGN PLUNDER (PILFERING PATH):** Aeric's `[Null Cycling]` seeds long-term **Sovereign Plunder**. Book 1 ladder: Null Cycling → **[Foundation Siphon]** (kill/defeat bind-break: Meridian Theft, Trait/Aspect fragments, Core Harvest) → Pilfering Aspect seed (**Rust & Void**) → mature Plunder later. Do not dump the full toolkit on Day Zero; grow through Acts. When it advances, update `@mc_sheet.md`. Full rules in `@system_mechanics.md`.
+* **SIPHON COSTS:** Siphoned healing is **Painful Reconstruction** (molten-wire re-stitch; not potion healing). Low-tier spam deposits **Impure Aether Sediment** → clog / Meridian Rupture risk; must manually cycle sediment off. Injuries persist without paid cost.
 * **GORE & REALISM:** Visceral, explicit gore. Show monsters ripping humans apart in brutal detail (cracked bone, spraying arterial blood, tearing limbs).
-* **CHARACTER VOICE (AERIC RYDER):** Deep third-person limited. Heavy **internal dialogue** in the style of Zack from *Defiance of the Fall* — constant running thoughts, questions, half-bitter commentary, trying to make sense of impossible shit as it happens. He does **not** know what is happening. Confusion first; analysis second; dark excitement rising under it as he adapts. When he sees others butchered, fear doesn't own him — adrenaline and a wrong, hungry thrill do — but he is still figuring out *why* the world broke.
+* **CHARACTER VOICE (AERIC RYDER):** Deep third-person limited. Heavy **internal dialogue** in the style of Zack from *Defiance of the Fall* — constant running thoughts, questions, half-bitter commentary, trying to make sense of impossible shit as it happens. He does **not** know what is happening. Confusion first; analysis second; dark excitement rising under it as he adapts. When he sees others butchered, fear doesn't own him — adrenaline and a wrong, hungry thrill do — but he is still figuring out *why* the world broke. **Ruthless pragmatist:** old soft rules are dead; he doesn't slaughter innocents for fun, but anyone blocking resources can become Dantian fuel.
 * **PROFANITY:** Raw, realistic swearing (fuck, shit, etc.) when adrenaline spikes or tissue tearing forces it out of him.
 * **TONE:** Dark, high-stakes, psychologically real. Sensory and internal first; action second.
 
 ## Discovery POV (Critical — Remember This)
 
 * **Aeric does not know the setting.** He has no prior knowledge of Integration, Realms, Aether, Guardians, or planetary expansion.
-* **The reader must not be told either** through omniscient narration. No "old Earth," no explaining the ×1000 wipe as fact in prose, no "this is Day Zero of the System." Canon lives in `@world_primer.md` for the author; the story only reveals what Aeric sees, feels, guesses wrong about, or is told in clinical Guardian jargon he barely understands.
+* **The reader must not be told either** through omniscient narration. No "old Earth," no explaining the ×1000 wipe as fact in prose, no "this is Day Zero of the System." Canon lives in `@world_primer.md` for the author; the story only reveals what Aeric sees, feels, guesses wrong about, or is told by Mariusz / the Interface.
 * Do not have Aeric casually accept cosmic explanations. He questions, misunderstands, and pieces things together slowly.
-* System terms (Aether, Meridians, Dantian, templates, etc.) appear when the Guardian or Interface introduces them — not as Aeric's preexisting vocabulary.
+* System terms (Aether, Meridians, Dantian, templates, etc.) appear when Mariusz or the Interface introduces them — not as Aeric's preexisting vocabulary.
 * Internal monologue should constantly ask: *What the fuck is this? Why me? What are my options? How do I not die? How do I turn this into an advantage?*
 
-## The Guardian / Conduit Entity
+## The Guardian — Mariusz (Critical)
 
-* **NATURE:** A completely unemotional, impersonal entity assigned to Aeric on Day Zero. It stays with him permanently as his Interface, Shop/Marketplace, and Upgrade Auditor.
-* **GUARDIAN VOICE:** Flat, clinical, and devoid of empathy. Speaks purely in terms of power, math, and efficiency. It may state facts Aeric doesn't understand yet; it will not gently tutor or reassure.
-* **INFLUENCE:** Because it prioritizes maximum power and raw efficiency over human safety or morality, its advice naturally steers Aeric toward darker, more ruthless paths.
-* **FORMATTING:** Guardian speech and audits use clinical brackets — never warm, never humorous, never protective.
+* **NAME:** **Mariusz** — one name. Always refer to him as Mariusz (Aeric may start with "Guardian" until he learns the name).
+* **ASSIGNMENT:** Every human is assigned a **Guardian** like Mariusz — otherworldly beings trapped inside the System and bound to a host. Mariusz is Aeric Ryder's System Guardian.
+* **ORIGIN / TITLE:** **Mariusz the Scholar.** From another world; trapped in the System after his realm fell to integration. Full history unfolds slowly — do not dump lore walls.
+* **FORMER IDENTITY:** The greatest scholar, grand theorist, and arch-researcher of his fallen realm before System integration.
+* **KNOWLEDGE BASE:** Deep mastery of **meridian mapping**, **energy dynamics**, **template design flaws**, and **cultivation math**. He sees soft scaffolds as engineered ceilings and can explain *why* they fail long-term.
+* **FATE BIND:** Mariusz's fate is **tied to Aeric's**. If Aeric dies/fails, Mariusz suffers the consequences of that binding. This stakes his emotion and advice — he is not a disposable UI.
+* **DYNAMIC WITH AERIC:** Mariusz = brilliant, cynical mind providing **high-tier theoretical insights**. Aeric = reckless, high-pain-threshold **test subject** willing to execute those volatile theories in combat. Scholar designs the experiment; Aeric bleeds to prove it. Write their interplay that way.
+* **FUNCTIONS:** Permanent **Interface** and **Upgrade Auditor**. **No Shop. No Marketplace.** Remove shop/menu commerce from all STATUS and Guardian panels.
+* **APPEARANCE (void / staging):** Hooded at first. When he pulls the hood back: **two horns**, **elf ears**, **golden skin**, **all-silver eyes**, **white hair** — demon-like to human eyes.
+* **VOICE / EMOTION:** Dry, sharp, weary, bitterly amused — a fallen arch-scholar, not a flat bot and not a soft mentor. Lectures in fragments; needles Aeric; cares because their fates are bound and because the theory must be tested.
+* **FAMILY (author canon — Vellath):** Spouse **Saelithra**. Five children, absorbed with Vellath; do not resolve their Guardian fates yet. Names are from Vellath / dead-dialect glosses Mariusz favored. Keep spellings exact. Do not dump the full name-list or etymology wall into Aeric-POV prose; reveal in memory fragments when earned. Full Twinlight origin is parked in `@interlude_twinlight.md` for later (~Ch5–7), not early Chapter 2.
+  * **Threxuun** (eldest) — *standing rebuttal* (the proof that answers back)
+  * **Vyzaelith** (second) — *overturned gaze* (sight that hangs / looks from under)
+  * **Q’rexil** (twin) — *held resonance*
+  * **Ssivrae** (twin) — *escaped song*
+  * **Ix’taalene** (youngest) — *unfinished light*. Strange even by Vellath naming — too many breaks in the mouth, too much hush in the middle. Mariusz chose it after a dead dialect; Saelithra allowed it because she loved him when he was ridiculous.
+* **NEW SKILL / ABILITY FORMAT (mandatory):** Every time Aeric gains a new skill, trait, technique, or ability:
+  1. Show a clear **breakdown block** of what it does.
+  2. Follow immediately with a **short monologue from Mariusz** reacting to it (emotion + stake + practical edge).
+* **FORMATTING EXAMPLE:**
 
-## Progression & Realms of Power
+  > **[ NEW TECHNIQUE ]**
+  > **Name:** Null Cycling — Lvl 1
+  > **Type:** Manual Technique
+  > **Effect:** *(plain breakdown of what it does)*
 
-*These six are the **first ladder** (mortal → universe concept). They are not the end. **Beyond 6th Realm lie the God Realms** — higher tiers, named/detailed later. Do not treat Aether Sovereign as the final ceiling in long-term plotting.*
+  Then Mariusz speaks — a few lines, in character.
 
-1. **1st Realm:** Unforged (Mortal / Clogged)
-2. **2nd Realm:** Copper Core (Liquid Dantian)
-3. **3rd Realm:** Iron Core (Body Tempering)
-4. **4th Realm:** Silver Domain (Intent Manifestation)
-5. **5th Realm:** Gold Lord (Soul Domain)
-6. **6th Realm:** Aether Sovereign (Universe Concept)
-7. **7th+ Realms:** **God Realms** *(beyond current ladder — TBD)*
+## Progression Hierarchy & Realm Scaling
+
+*Do not treat 6th Realm as the cosmic finish line. Full detail in `@system_mechanics.md`. Discovery POV: drip scale through Mariusz bitterness — do not wiki-dump “Mortal Strata / Ascendant / Architect” early.*
+
+### Cosmic tiers (author)
+
+* **TIER 1 — Mortal Strata** *(Lower Realms / Mortal Shell / Foundation):* Realms **1st–6th**. Local planetary body tempering + Aether condensation. Cap for integrated **tutorial / nursery worlds** like Earth (and how the cosmos treated Vellath). Standard Templates hard-cap inside this tier (typically ~3rd–4th; rare exceptions allowed).
+* **TIER 2 — Ascendant Strata** *(Middle Realms / True Cosmos):* Soul Forging, Law Comprehension, World-Core Integration. Where System Trade Hubs, inter-planetary sects, and **true Shops** operate. Not available in Mortal nursery zones — no mall in a kindergarten.
+* **TIER 3 — Architect Strata** *(Upper Realms / Conduit Lords):* Cosmic frameworks, realm creation, System manipulation. Entities behind Conduit Machinery. *(Named **Architect** — not “Sovereign” — to avoid colliding with Aeric’s path name **Sovereign Plunder**.)*
+
+* Mariusz knows the true scale: **6th Realm = finishing primary school** — bare minimum to leave the nursery. Vellath’s peak “gods” at 5th/6th were **Grade-1 Raw Conduit Material** to the harvest. Imply; full confession later.
+
+### Mortal Strata — Realms 1–6 (Book 1 ladder)
+
+1. **1st — Unforged** *(Mortal / Clogged)* — clean modern disuse; open 108 meridians; seed a personal Dantian claim.
+   * Stage 1: Clogged Frame `(0/108)`
+   * Stage 2: Seeded Dantian (trace bound Null / Siphon Seed — Unstable) — *Aeric’s current start*
+   * Goal: open Meridians & condense bound Aether into a **stable Core**
+2. **2nd — Copper Core** *(Stable Foundation)* — first true Core / stable personal reservoir. Body Tempering begins via siphoned vitality. *Book 1 climax target.*
+3. **3rd — Iron Core** *(Tethered Shell)* — reinforce meat/bone/organs to hold raw energy.
+4. **4th — Silver Domain** *(Intent Seed)* — localized aura / basic Aspect projection.
+5. **5th — Gold Lord** *(Soul Anchor)* — stabilize consciousness for off-world survival.
+6. **6th — Aether Sovereign** *(Foundation Peak)* — absolute limit of a mortal frame; ready for True Ascension into Ascendant Strata — **not** the end of the universe.
+
+* Techniques/Aspects earned by **Mariusz theory + Aeric bloody execution** — never free System level-up gifts.
+* **Unsealed / Sovereign Plunder** keeps the foundation uncapped so Aeric can eventually breach Ascendant+; Templates buy early ease and die in the kindergarten.
 
 ## Day Zero Chapter Order (Do Not Skip Ahead)
 
 1. Tech dies / crash / air thickens / surroundings start looking wrong — Aeric confused.
 2. **All humans are taken into staging voids first** for Guardian tutorial and path selection.
-3. Guardian interaction completes (templates offered; Aeric rejects after analysis; Null Cycling begins in agony/confusion).
-4. Hosts return **scattered by distance** into wilderness he doesn't recognize.
+3. Mariusz reveals himself (hood → demon-gold features), tutorial completes (templates offered; Aeric rejects; Null Cycling begins; each new trait/technique gets breakdown + Mariusz monologue).
+4. Hosts return **scattered by distance** into wilderness he doesn't recognize (**Shattered Primeval Forest** — author label; he learns it slowly).
 5. Monster-clearing chaos begins — freezers die gory, some fight well, Aeric thrives while still not fully understanding the rules.
+
+* **Early chapter order (serial):** After Ch1 field beat, stay in Aeric forest survival (Ch2 = Pack Math). Do **not** drop full Mariusz / Vellath origin as Chapter 2. Park full piece in `@interlude_twinlight.md`; insert later (~Ch5–7) once the Guardian dynamic is earned. Short sensory splinters only before then. Do not have Mariusz outright confess his experiment caused the harvest — imply only; full blame later.
+
+## Book 1 Arc (Author Map — Ch 1–40)
+
+*Full beat sheet in `@world_primer.md`. Do not skip Act gates.*
+
+* **Act I — Survival & Awakening (Ch 1–10):** Basic Siphoning from Null Cycling; first monster cores; clear **10–15** meridians; establish Shattered Primeval Forest; drip basic Realm/universe lore.
+* **Act II — Escalation & Human Conflict (Ch 11–25):** Survivors (Templates vs Unsealed); home base and/or high-density **Aether Nexus**; regional alpha/boss threat; seed Idealistic Rival.
+* **Act III — Local Climax & Breakthrough (Ch 26–40):** Scaffolded human warlords; massive high-risk Foundation Siphon; breakthrough to **Copper Core** (stable bound-Aether Core).
+* **Idealistic Rival (seed):** Noble high-tier template protector; their Guardian knew Mariusz on Vellath. No early Act I intro — collide later.
 
 ## Writing Style Guardrails
 
 * **PACING & EMOTION:** Slow down. Live in Aeric's head. Confusion, shock, dark thrill, and calculation should outweigh plot summary.
 * **INTERNAL DIALOGUE:** Frequent. Zack-like. Questions, option-weighing, bitter jokes, course-correction mid-thought.
 * **SYNERGY & ANALYSIS:** Once terms exist on-page, show him evaluating techniques, traits, and Aether costs coldly for long-term power — still as a guy learning, not a wiki.
-* Blue Interface / Guardian screens measure, audit, and trade — they do not gift builds. Aeric treats them as unsettling data, then as leverage.
+* Blue Interface screens measure and audit — they do not gift builds. Mariusz interprets, needles, and steers. Aeric treats both as data, then leverage.
 
 ## Status Screen Format (Traditional LitRPG — Mandatory)
 
@@ -74,8 +124,8 @@ When showing Aeric's stats / attributes (Guardian status, audits, sheet dumps, l
 > **Intelligence:** 12
 > **Wisdom:** 11
 > **Meridians Cleared:** 3 / 108
-> **Dantian Density:** 1.2% (Gaseous)
-> **Aether Reserves:** Trace gaseous Null
+> **Dantian Binding:** 1.2% *(Seeded — Unstable)*
+> **Aether Reserves:** Trace bound Null
 > **Aether Currency:** 0
 >
 > **Traits:**
@@ -90,15 +140,53 @@ When showing Aeric's stats / attributes (Guardian status, audits, sheet dumps, l
 
 * Always sync displayed numbers to `@mc_sheet.md`.
 * **Titles** and **Feats** sections are permanent slots in the format — leave empty / "none" until earned, then list them.
-* Enemy **[Scan]** blocks can stay shorter (Name/Entity, Level, Threat). Full STATUS format is for Aeric (and later allies if needed).
+* Full **[ STATUS ]** format is for Aeric (and later allies if a full sheet is shown). Targets use **[Scan]** below — never a full six-attribute dump unless Aeric somehow audits them in depth later.
+
+## Scan Format (People & Creatures — Mandatory)
+
+*`[Scan]`* is measurement only (up to 5 levels above Aeric). Show a clear block on first meaningful look. Keep Discovery POV: Aeric learns what the Interface shows — not omniscient bios.
+
+### Humans / Named People
+
+Mandatory fields: **Name**, **Race**, **Level**. Optional **Note** line for template, scaffold, hostility, condition, etc.
+
+> **[Scan]**
+> **Name:** Jonah Keller
+> **Race:** Human
+> **Level:** 1
+> **Note:** Weaver Template *(Scaffolded)* — Non-hostile / Unstable channeling
+
+* After a person is Scanned, **prose uses their name** (Jonah / Keller) — do not keep calling them “the Weaver teen,” “the kid,” etc., unless Aeric is deliberately dehumanizing them in internal voice for a beat.
+* If Scan fails or is blocked, show that; do not invent a name in narration until the Interface or dialogue provides one.
+* Log named survivors who matter on `@mc_sheet.md` (kill log, psychological notes, ally list) when relevant.
+
+### Creatures / Monsters / Non-person Hostiles
+
+Mandatory fields: **Entity**, **Level**, **Threat**. Use species/type label under Entity (not a personal name unless the being is truly named). Threat line = short combat-useful tag (tier, pack role, weak point).
+
+> **[Scan]**
+> **Entity:** Aether-Warped Carrion Beetle
+> **Level:** 3
+> **Threat:** Pack scavenger — soft ventral seam; armor elsewhere
+
+* After Scan, prose may use the Entity label (“the beetle,” “the Cur,” “Carrion Beetle”) consistently with that reveal.
+* Do not give trash mobs human-style Name/Race blocks.
+
+### Other
+
+* **Unknown / obscured:** **Entity:** Unknown / Obscured — Level: ??? — Threat: Cannot resolve (or similar). No fake precision.
+* **Guardians** of other hosts: do not full-Scan as people unless Mariusz/Interface allows; usually voice/presence only until earned.
+* Compact follow-ups mid-fight are fine once the first Scan block has established the target.
 
 ## Enforcement
 
 1. ALWAYS reference `@system_mechanics.md` and `@mc_sheet.md` for stat and cultivation logic; `@world_primer.md` for author-facing Day Zero reality. **Do not dump primer facts into narration.**
-2. FORMATTING FOR FULL STATUS: use the **Status Screen Format** above. Short combat audits may append kill notes beneath a STATUS block or a compact follow-up line — never replace the LitRPG sheet with unexplained stat soup.
+2. FORMATTING FOR FULL STATUS: use the **Status Screen Format** above. For targets use **Scan Format** (people = Name/Race/Level; creatures = Entity/Level/Threat). Short combat audits may append kill notes beneath a STATUS block or a compact follow-up line — never replace the LitRPG sheet with unexplained stat soup. Named Scanned people keep their name in prose.
 3. STAT MATH IS ABSOLUTE. Do not grant stats, traits, techniques, titles, feats, items, levels, Aether stores, or cultivation breakthroughs without updating `@mc_sheet.md`.
 4. Never offer Class selection, Classer identity, skill-slot loadouts, or free attribute points. Templates may appear as soft cages to be rejected.
-5. Injuries persist; healing costs time, Aether, items, or cultivation effort — not hand-waved recovery between scenes.
-6. The Guardian never comforts, moralizes, or softens outcomes. Efficiency over survival theater.
-7. No safe havens. Survival is earned.
-8. **No meta spoilers in prose.** If Aeric hasn't learned it, the reader hasn't either.
+5. Injuries persist; healing costs time, Aether, items, cultivation effort, or **Painful Reconstruction** via siphon — never potion-clean hand-waves. Sediment backlash is real.
+6. Mariusz may show emotion and stake, but never becomes a soft babysitter. No Shop/Marketplace.
+7. No safe havens. Survival is earned. Local Book 1 stage: Shattered Primeval Forest (discovered, not wiki-named on entry).
+8. **No meta spoilers in prose.** If Aeric hasn't learned it, the reader hasn't either. Respect Book 1 Act gates and rival seed timing.
+9. New skills/abilities always get **effect breakdown + Mariusz monologue**.
+10. Follow Book 1 Act map in `@world_primer.md` and siphon math in `@system_mechanics.md`.
