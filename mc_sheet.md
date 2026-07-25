@@ -21,10 +21,11 @@
 **Wisdom:** 11  
 *Baseline human average is 10. No free attribute points.*
 
-**Meridians Cleared:** 3 / 108  
-**Dantian Binding:** 2.1% *(Seeded — Unstable)*  
+**Meridians Cleared:** 4 / 108  
+**Dantian Binding:** 2.7% *(Seeded — Unstable)*  
 **Aether Reserves:** Trace bound Null  
-**Aether Currency:** 8 *(upgrade resource — no Shop)*  
+**Aether Currency:** 14 *(upgrade resource — no Shop)*  
+**Sediment Load:** Trace *(monitor — burn before next kill-contact siphon)*  
 
 ## Guardian — Mariusz the Scholar
 
@@ -86,17 +87,19 @@
 
 ## Injuries / Conditions
 
-* **Heavy lacerations — left forearm, ribs, thigh** *(Day Zero first field Cur)* — partially sealed via `[Null Cycling — Lvl 1]`; still weeping; infection risk elevated
+* **Heavy lacerations — left forearm, ribs, thigh** *(Day Zero first field Cur)* — partially sealed; still weeping; infection risk elevated
 * **Shin rake + palm splinters** *(Carrion Beetle fight)* — partially sealed; mobility impaired
+* **Fresh thigh rake** *(Gnarl-Hound fight, Ch3)* — bleeding; not reconstructed (saved fuel)
 * **Prior:** minor crash glass cut / contusions before void tutorial
-* **Cycling agony** — Meridian friction through 105 still-clogged pathways; fourth channel attempt failed mid-open
-* **Exhaustion / cumulative blood loss** — after void Cycle + Cur + Beetle; walking wounded
+* **Impure Aether Sediment — trace** *(Ch3)* — partial manual burn completed; remainder must flush before next kill-contact siphon
+* **Exhaustion / cumulative blood loss** — Day Zero cumulative; stabilized briefly post-Ch3 Cycle
 * **Psychological:** left **Jonah Keller** (Human, Lvl 1, Weaver Template) to pack beetles after soft-seam kill / retreat — shame vs. dark thrill unresolved
 
 ## Kill Log (Day Zero)
 
 * Aether-Warped Cur (Lvl 2) — deadwood spear through jaw seam
 * Aether-Warped Carrion Beetle (Lvl 3) — ventral soft-seam; withdrew under pack pressure (2 remaining feeding)
+* Aether-Warped Gnarl-Hound (Lvl 2) — gut seam; residue-only siphon; core suppressed (Ch3)
 
 ## Notes
 
@@ -105,7 +108,8 @@
 * Mariusz pushes hard paths as scholar + fate-bind; feeds Aeric theory (meridians, template flaws, cultivation math); Aeric proves it under fire. Analytical Eye still picks long-term absolute power.
 * **Every new skill/ability:** effect breakdown + short Mariusz monologue.
 * **Path ladder (planned):** Null Cycling → Foundation Siphon → Rust & Void (Pilfering seed) → Sovereign Plunder. More power than his Realm should allow; sediment/toxin wall is the brake.
-* **Ch2 written (Pack Math):** Beetle kill + Weaver non-intervention + failed Channel 4 + overdraw impulse (core almost taken). Meridians still **3/108**. Foundation Siphon still locked.
+* **Ch2 written (Pack Math):** Beetle kill + Weaver non-intervention + failed Channel 4 + overdraw impulse (core almost taken). Meridians **3/108**. Foundation Siphon still locked.
+* **Ch3 written (Sediment):** Sediment intro + partial burn; solo Gnarl-Hound kill; residue-only siphon (core suppressed); Channel 4 opened. Meridians **4/108**. Region tag partial (*Primeval density*). Foundation Siphon named but locked.
 * Next gates (Act I): unlock crude Foundation Siphon; clear **10–15** Meridians; first monster cores; learn local ground (**Shattered Primeval Forest**).
 * Book 1 endgate (Act III): high-risk Foundation Siphon → stable Core condensation → **2nd Realm: Copper Core**.
 * **Aether rule:** Ambient = unowned; Bound = ethereal host-only until Siphon/Null breaks the bind. No gaseous/liquid Dantian phase language.

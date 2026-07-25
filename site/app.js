@@ -13,6 +13,13 @@ const CHAPTERS = [
     image: "./images/chapter_02.png",
     blurb: "Carrion beetles, a Weaver’s scream, and the first overdraw that almost ate a core.",
   },
+  {
+    id: "3",
+    title: "Chapter 3 — Sediment",
+    file: "./chapters/chapter_03.md",
+    image: "./images/chapter_03.png",
+    blurb: "Grit in the Dantian, a hound in the wash, and the fourth meridian paid in blood.",
+  },
 ];
 
 const ART = [
@@ -135,7 +142,7 @@ async function renderChapter(id) {
   content.innerHTML = `<p class="loading">Loading…</p>`;
 
   try {
-    const res = await fetch(`${chapter.file}?v=4`, { cache: "no-store" });
+    const res = await fetch(`${chapter.file}?v=5`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
     const markdown = await res.text();
     const imageHtml = chapter.image
