@@ -135,7 +135,7 @@ async function renderChapter(id) {
   content.innerHTML = `<p class="loading">Loading…</p>`;
 
   try {
-    const res = await fetch(chapter.file);
+    const res = await fetch(`${chapter.file}?v=3`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
     const markdown = await res.text();
     const imageHtml = chapter.image
@@ -161,8 +161,13 @@ render();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch((err) => {
-      console.warn("Service worker registration failed:", err);
-    });
+    navigator.serviceWorker
+      .getRegistrations()
+      .then((regs) => Promise.all(regs.map((r) => r.update())))
+      .finally(() => {
+        navigator.serviceWorker.register("./sw.js?v=3").catch((err) => {
+          console.warn("Service worker registration failed:", err);
+        });
+      });
   });
 }

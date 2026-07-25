@@ -1,5 +1,5 @@
 /* Aeric Ryder reader — offline shell + chapter cache */
-const CACHE = "aeric-ryder-v2";
+const CACHE = "aeric-ryder-v3";
 
 const PRECACHE = [
   "./",
@@ -37,10 +37,23 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches
       .keys()
-      .then((keys) =>
-        Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key)))
+      .then((keys) => Promise.all(keys.map((key) => caches.delete(key))))
+      .then(() => caches.open(CACHE))
+      .then((cache) =>
+        Promise.all(
+          PRECACHE.map((url) =>
+            cache.add(url).catch((err) => {
+              console.warn("Precache skipped:", url, err);
+            })
+          )
+        )
       )
       .then(() => self.clients.claim())
+      .then(() =>
+        self.clients.matchAll({ type: "window" }).then((clients) => {
+          for (const client of clients) client.navigate(client.url);
+        })
+      )
   );
 });
 
