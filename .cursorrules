@@ -193,3 +193,4 @@ Mandatory fields: **Entity**, **Level**, **Threat**. Use species/type label unde
 9. New skills/abilities always get **effect breakdown + Mariusz monologue**.
 10. Follow Book 1 Act map in `@world_primer.md` and siphon math in `@system_mechanics.md`.
 11. **Siphon = touch on a dying body, always.** Every Null Cycling / Foundation Siphon beat must show Aeric making deliberate bare-skin contact with a target that is already dying to leech its remaining life-Aether. Never let a weapon-only kill silently trigger a siphon.
+12. **Site deploy = Cloudflare Pages only.** Reader lives in `site/`. On chapter/site changes: sync `site/chapters/`, update `site/app.js` + `site/sw.js`, bump cache `?v=`, commit, push `master`. CI: `.github/workflows/deploy-cloudflare.yml`. **Never** GitHub Pages. See `.cursor/rules/cloudflare-deploy.mdc`.

@@ -1,0 +1,10 @@
+{
+  "name": "aeric-ryder",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler pages deploy site --project-name=aeric-ryder --branch=master"
+  },
+  "devDependencies": {
+    "wrangler": "^4.58.0"
+  }
+}

@@ -1,0 +1,43 @@
+---
+description: Deploy the reader site to Cloudflare Pages only — never GitHub Pages
+alwaysApply: true
+---
+
+# Cloudflare Pages — Sole Deploy Target
+
+The **Aeric Ryder reader** (`site/`) deploys to **Cloudflare Pages only**. Do **not** use GitHub Pages for production.
+
+## On every site/chapter push
+
+1. Sync `site/chapters/` with root `chapter_*.md` when chapters change.
+2. Update `site/app.js` (`CHAPTERS`, blurbs, art paths).
+3. Bump `site/sw.js` cache version and precache list when assets/chapters change.
+4. Bump `?v=` in `site/index.html` and `site/app.js` fetch URLs.
+5. **Commit and push to `master`** — `.github/workflows/deploy-cloudflare.yml` deploys automatically.
+
+## Local deploy (optional)
+
+```bash
+npm install
+npm run deploy
+```
+
+Requires `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` (or `wrangler login`).
+
+## CI secrets (GitHub repo)
+
+Required in **Settings → Secrets → Actions**:
+
+| Secret | Purpose |
+|--------|---------|
+| `CLOUDFLARE_API_TOKEN` | API token with **Cloudflare Pages Edit** |
+| `CLOUDFLARE_ACCOUNT_ID` | Account ID from Cloudflare dashboard |
+
+**Project name:** `aeric-ryder`  
+**Deploy directory:** `site/`  
+**Production branch:** `master`
+
+## Never
+
+- Re-add `.github/workflows/deploy-pages.yml` or GitHub Pages deploy steps.
+- Tell the user the site is on GitHub Pages unless explicitly debugging legacy.
