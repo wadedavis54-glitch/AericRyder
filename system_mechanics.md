@@ -13,6 +13,7 @@
 * **Templates / Soft Scaffolds:** System-offered stabilization paths (Warrior, Weaver, Warden, etc.). Soft cages with hard caps. Opposed to **Unsealed / Manual** tracks.
 * **Cores / Seeds:** Condensed knots of bound Aether in beasts (and later stronger foes). Physical/semi-physical harvest targets for cultivation, crafting, or siphon fuel.
 * **Siphon / Null exception:** Theft is not “borrowing MP.” Null Cycling and Foundation Siphon **break the bind**, strip foreign signatures, and force the ethereal fuel into the thief’s Dantian as Null. Painful. Sediment = failed/corrupt conversion.
+* **Contact requirement:** The break-bind theft cannot happen through a weapon or at range. It requires **direct skin contact with a target that is already dying** — Aeric plants a bare hand against flesh, wound, or ichor while the target's life-Aether is actively fleeing the body, and drags that fleeing current into his own Dantian. A killing blow alone (spear, fist, claw) takes a life; it does not, by itself, take anything *from* it. See §6a.
 
 ## 2. Body Attributes (Measured Frame)
 
@@ -117,20 +118,30 @@ There are **no System Classes**, **no Classers**, **no skill slots**, and **no f
 * **Aeric** provides brutal physical execution, trial-by-fire testing, and high-pain endurance.
 * Every new technique / trait / Aspect fragment: **effect breakdown + short Mariusz monologue**, then sync `@mc_sheet.md`.
 
+## 6a. Siphon Trigger — The Touch Requirement (Critical)
+
+*Governs every Null Cycling / Foundation Siphon beat in prose. Do not let a siphon "just happen" off a weapon still lodged in the wound.*
+
+* **What triggers it:** Bare skin (palm, fingers, forearm — whatever flesh is exposed) pressed directly against a target that is **already dying**: mortally wounded, gutted, in death throes, life-Aether visibly/sensibly leaking out. The target must be past the point of fighting back in any real way — this is a leech on a dying thing, not a weapon effect and not a duel-ender on a healthy foe.
+* **What it is, mechanically:** Aeric's Dantian reaches through the contact point and **pulls the fleeing life-Aether** — the raw current a body sheds as it dies — into himself before it dissipates into Ambient. He is not draining a living, fighting target's reserves; he is catching what a dying one is already losing and claiming it as Null.
+* **What it is not:** Not automatic on kill. Not triggered by the spear/weapon still in the wound. Not usable on a healthy, stable, or merely wounded-but-stabilizing target — there has to be a dying current to catch.
+* **On-page requirement:** Every siphon must show the discrete touch beat — a hand planted, palm pressed to ichor, fingers digging into a wound — as its own action, distinct from and after the killing strike. Land the kill with the weapon; leech with the hand.
+* **Cost:** Identical agony/sediment rules as elsewhere in this doc (glass-through-veins burn, Impure Aether Sediment risk on low-tier spam) — the touch requirement changes *how* the theft is initiated, not what it costs once it starts.
+
 ## 6. Aeric’s Path — Sovereign Plunder (Pilfering Aspect)
 
 *Long-term path name (author): **Sovereign Plunder**. Seeded by Day Zero `[Null Cycling]`. Do not drop the full endgame toolkit in early chapters — grow it through Acts.*
 
 ### Evolution ladder (Book 1)
 
-1. **`[Null Cycling]`** — pulls ambient / hostile Aether; breaks it into raw Null fuel through agony. *(Unlocked Day Zero.)*
-2. **`[Foundation Siphon]`** — on kill/defeat, predatory rip of a target’s internal foundation. *(Act I mastery; unlock in stages, update sheet when earned.)*
+1. **`[Null Cycling]`** — pulls raw Ambient Aether from the air, and, via direct touch on a dying target, catches their fleeing life-Aether before it scatters; breaks both into raw Null fuel through agony. *(Unlocked Day Zero.)*
+2. **`[Foundation Siphon]`** — via the same touch-on-dying-body contact, a deeper predatory rip of a target’s internal foundation. *(Act I mastery; unlock in stages, update sheet when earned.)*
 3. **Pilfering Aspect seed (Rust & Void)** — as the Dantian bind densifies toward a Core, bound Null gains erosive, predatory quality: strip guards, erode incoming attacks, skim mid-combat. *(Foreshadow mid-Book 1; crystallize toward Copper breakthrough.)*
 4. **Sovereign Plunder** — mature Pilfering Aspect identity (later books / late Book 1 edges only).
 
 ### Foundation Siphon — core extraction types
 
-Upon killing or defeating a target, Aeric’s Dantian may forcibly rip away foundation pieces:
+Upon making bare-skin contact with a target that is already dying (see §6a — touch is mandatory, weapon contact alone never qualifies), Aeric’s Dantian may forcibly rip away foundation pieces:
 
 * **Meridian Theft:** Siphon pure meridian alignment to force his own 108 pathways open faster than manual friction alone.
 * **Trait & Aspect Siphoning:** Extract fragments of unique body refinements, elemental affinities, or physical traits. Incomplete fragments need Mariusz theory + further kills to stabilize.

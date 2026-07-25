@@ -63,25 +63,29 @@ The first beetle turned too slow. Deadwood punched the soft seam under the thora
 
 Aeric ripped the spear free, rolled—shin opening on a ridge of carapace—*fuck*—and drove the point again as the beetle reared. Soft seam. Same place. Deeper. He felt something give that wasn’t armor.
 
-Null Cycling woke without asking.
+The beetle shrieked and folded, legs buckling, ichor sheeting black-green out of the ruined seam. Dying. Not dead yet. That gap—the one nobody had taught him, the one his hand had found on the Cur without asking permission—was still open.
 
-Not the polite trickle from the Cur.
+His free hand was already moving.
 
-A *pull*—hungry, stupid, greedy—ripping at the beetle’s dying heat like his Dantian had grown teeth. Ambient Aether, hostile scrap, whatever slurry lived in the thing’s guts: it all tried to shove into him at once. Meridians that weren’t open screamed. The three cleared paths flared white-hot. The rest stayed clogged and punished him for wanting more.
+Aeric shoved his palm flat against the wound, fingers sinking past cracked chitin into hot ruined meat before his brain finished voting on it.
+
+Null Cycling woke through the contact, and it was nothing like the Cur.
+
+Not a polite trickle. A *pull*—hungry, stupid, greedy—ripping at the beetle’s dying heat like his Dantian had grown teeth around his own wrist. Ambient Aether, hostile scrap, whatever slurry lived in the thing’s guts: all of it tried to shove up his arm and into him at once. Meridians that weren’t open screamed. The three cleared paths flared white-hot. The rest stayed clogged and punished him for wanting more.
 
 It felt like swallowing broken glass and calling it dinner.
 
-For half a second the pull found something denser in the corpse—a hard little knot under the ichor, like a seed—and Aeric’s gut *lunged* for it.
+For half a second the pull, still running down his own arm, found something denser under his palm—a hard little knot buried in the ichor, like a seed—and Aeric’s gut *lunged* for it, hand pressing harder like he could claw it out through want alone.
 
 Then the knot slipped. Or he slipped. The Cycle choked, coughed sludge-taste up the back of his throat, and settled for burning raw fuel into the shin-rake and palm-splinters hard enough to cauterize without healing clean.
 
-*What the fuck was that. That wasn’t cycling. That was—theft. Almost. Shit. I want it again. That’s bad. That’s useful. Same thing now?*
+*What the fuck was that. That wasn’t cycling. That was theft. Through my own hand. Shit. I want it again. That’s bad. That’s useful. Same thing now?*
 
-“Control it,” Mariusz snapped, and there was real anger under the scholar-voice—fear dressed as instruction. “You yank like a drowning man and you will rupture what little you’ve opened. Residue first. Foundations later. You are not ready to eat a core whole.”
+“Control it,” Mariusz snapped, and there was real anger under the scholar-voice—fear dressed as instruction. “You put your hand on a dying thing and yank like a drowning man, you will rupture what little you’ve opened. Residue first. Foundations later. You are not ready to eat a core whole.”
 
 *Core. He said core. File that. Also: drowning man. Accurate.*
 
-The beetle shuddered and went still.
+The beetle shuddered under his palm and went still.
 
 The other two did not care about Aeric’s personal growth.
 

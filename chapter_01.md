@@ -347,13 +347,25 @@ He didn’t freeze.
 
 He moved—half instinct, half the Eye carving ugly little advantages out of panic, the deadwood spear already in his fist because he’d been smart enough to pick it up while other people were still deciding whether to scream. The half-step turned a throat-bite into a forearm rake. Claws opened meat to bone. Pain tried to own him; Stubborn Will turned it into information. He slammed the Cur into a root hard enough to feel something give, jammed his ruined arm into its teeth—*stupid, necessary, fuck*—and drove the deadwood up through the soft place under its jaw.
 
-Wet crunch. Arterial spray across his mouth. The Cur thrashed, claws scoring his ribs and thigh in dying spasms—then went still.
+Wet crunch. Arterial spray across his mouth. The Cur thrashed, claws scoring his ribs and thigh in dying spasms—then sagged, breath rattling out wet through the ruin of its jaw. Dying. Not dead yet.
 
 Aeric knelt in the blood-mud, shaking so hard his teeth clicked.
 
-*I killed it. I killed a—whatever that was. I’m bleeding. I’m laughing. Stop laughing. No, keep laughing. I don’t know. I don’t know anything.*
+*I killed it. I’m killing it. I’m bleeding. I’m laughing. Stop laughing. No, keep laughing. I don’t know. I don’t know anything.*
 
-Somewhere else a scream cut short. His wounds were very real. The hollow under his gut flickered, and Null Cycling tugged on instinct—pulling a trickle of the Cur’s dying whatever-it-was into himself, burning the edges of torn meat as fuel.
+The hollow under his gut wasn’t finished with him.
+
+It wanted—not vague hunger, *specific* hunger, like a hand already reaching for a doorknob it somehow knew was there. His palm moved before he’d agreed to anything, planting flat and bare against the torn wet heat of the Cur’s throat, right where whatever passed for its life was leaking out into the mud instead of staying where it belonged.
+
+*What am I doing. Why is my hand— why does this feel like the important part—*
+
+Null Cycling woke and bit down through the contact.
+
+Not the grease-thick ambient scrape from the void. Something narrower. Aimed. A straw dropped into a glass already tipping empty. He felt the Cur’s last current—thin, animal, guttering—get caught mid-flight and dragged sideways into him instead of dissolving into the air the way it wanted to. It didn’t feel like breathing something in.
+
+It felt like robbing a dying thing of the last coin in its fist before the fingers went slack.
+
+Somewhere else a scream cut short. His wounds were very real. The stolen trickle burned the edges of torn meat shut as fuel—ugly, half-sealed, cauterizing without healing clean.
 
 Thriving wasn’t the word.
 
