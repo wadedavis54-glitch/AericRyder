@@ -233,7 +233,7 @@ He pressed a shaking hand to the cold pit under his navel—empty, aware, hungry
 > **[ NEW TECHNIQUE ]**
 > **Name:** Null Cycling — Lvl 1
 > **Type:** Manual Technique
-> **Effect:** Forcibly pulls ambient Aether and hostile **bound** Aether into the Dantian, breaking foreign binds and stripping them into raw, neutral Null fuel. Agonizing meridian friction. Early seed of a devouring / pilfering path. High risk of rupture if forced too hard.
+> **Effect:** Forcibly pulls ambient Aether from the air through agonizing meridian friction, breaking it into raw, neutral Null fuel in the Dantian. **Only via direct bare-skin contact with a target already dying** — separate from any killing blow — can it leech fleeing life-Aether before it scatters; that draw feels like a dark, intoxicating rush, not pain. Spending stolen vitality on forced healing is agony. Weapon contact alone never triggers the leech. Early seed of a devouring / pilfering path. High rupture risk if forced too hard.
 
 “Null Cycling,” Mariusz murmured, almost reverent, almost afraid. “You’re not storing power like a polite little battery—you’re stealing it and stripping it bare. That path can make you stronger than you should be. It can also hollow you out. Don’t waste it.”
 

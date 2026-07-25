@@ -105,7 +105,7 @@
 * Mariusz pushes hard paths as scholar + fate-bind; feeds Aeric theory (meridians, template flaws, cultivation math); Aeric proves it under fire. Analytical Eye still picks long-term absolute power.
 * **Every new skill/ability:** effect breakdown + short Mariusz monologue.
 * **Path ladder (planned):** Null Cycling → Foundation Siphon → Rust & Void (Pilfering seed) → Sovereign Plunder. More power than his Realm should allow; sediment/toxin wall is the brake.
-* **Ch3 written (Pack Math):** Beetle kill + Weaver non-intervention + failed Channel 4 + overdraw impulse (core almost taken). Meridians still **3/108**. Foundation Siphon still locked.
+* **Ch2 written (Pack Math):** Beetle kill + Weaver non-intervention + failed Channel 4 + overdraw impulse (core almost taken). Meridians still **3/108**. Foundation Siphon still locked.
 * Next gates (Act I): unlock crude Foundation Siphon; clear **10–15** Meridians; first monster cores; learn local ground (**Shattered Primeval Forest**).
 * Book 1 endgate (Act III): high-risk Foundation Siphon → stable Core condensation → **2nd Realm: Copper Core**.
 * **Aether rule:** Ambient = unowned; Bound = ethereal host-only until Siphon/Null breaks the bind. No gaseous/liquid Dantian phase language.

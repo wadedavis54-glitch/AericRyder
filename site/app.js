@@ -10,7 +10,7 @@ const CHAPTERS = [
     id: "2",
     title: "Chapter 2 — Pack Math",
     file: "./chapters/chapter_02.md",
-    image: "./images/chapter_03.png",
+    image: "./images/chapter_02.png",
     blurb: "Carrion beetles, a Weaver’s scream, and the first overdraw that almost ate a core.",
   },
 ];

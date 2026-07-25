@@ -6,6 +6,8 @@ The hard part was everything his body was still arguing about. Forearm. Ribs. Th
 
 *Okay. Inventory: bleeding. Confused. Demon accountant in my head telling me to get up. Cool. Normal Tuesday.*
 
+Somewhere behind his eyes, the Cur’s residue had finished converting—eight units of something the Interface called currency, spendable only through Mariusz, no shop, no mercy aisle. He didn’t know what eight bought yet. He knew it had cost a palm on a dying throat and a burn he could still taste.
+
 “Walk,” Mariusz said. Not tutorial-bright. Sharp enough to cut through the shakes. “Away from the smell. Carrion draws more than dogs.”
 
 *Dogs. Right. That thing wasn’t a dog. Neither is whatever’s coming.*
