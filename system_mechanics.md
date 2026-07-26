@@ -30,10 +30,11 @@
 
 ## 3. Cultivation Attributes (Internal)
 
-* **Meridians Opened / Cleared:** `X / 108` — primary progress tracker within the Unforged Realm and beyond.
+* **Meridians Opened / Cleared:** `X / 108` — **primary progress tracker until the frame is complete** (see §12). After `108 / 108`, meridians stay open; progression shifts to Core, Aspect, and (later) multi-Core tracks.
 * **Clogging:** Unforged baseline is 90%+ blocked by modern toxins and disuse.
-* **Dantian Binding (%):** How stable/packed the host’s claim on their bound Aether is. Early Unforged = **Seeded / Unstable**. Copper Core = first true **stable Core** (bound Aether condensed enough to hold under real load).
-* **Active Aspect:** Conceptual identity of the cultivator's bound Aether. Aspects advance through comprehension stages (e.g., Unfurl → deeper unfoldings).
+* **Dantian Binding (%):** How stable/packed the host’s claim on their bound Aether is **within the current Realm’s Core capacity**. Early Unforged = **Seeded / Unstable**. Copper Core = first true **stable Core** (bound Aether condensed enough to hold under real load). **100%** = fully saturated for the **current Realm’s single-Core ceiling** — not automatic ascension; see §12.
+* **Active Aspect:** Primary conceptual identity of the cultivator's bound Aether (Aeric: **Null / Void**). Aspects advance through comprehension stages (e.g., **Unfurl** → deeper unfoldings). A mature Core may later hold a **secondary Aspect layer** (earned — not a menu pick). See §12.
+* **Core Count (author — late):** Mortal Strata = **one** personal Core in the Dantian. Additional **satellite / auxiliary Cores** are long-term **Ascendant+** territory for Aeric’s Plunder path — foreshadow via Core Harvest; do not deploy in Book 1 prose.
 * **Cycling Methods:** Personalized engines for moving Aether (e.g., Devouring Cycle). Methods may be Unrefined until stabilized through repeated use and Meridian clearance.
 * **Aether Reserves / Currency:** Internal **bound** stores and spendable Aether for upgrades via the Guardian as Upgrade Auditor — **not** a Shop UI.
 * **Impure Aether Sediment:** Toxic sludge deposited by low-tier / corrupt siphons (failed bind-break). Must be burned off by manual cycling or risk Meridian Rupture.
@@ -438,7 +439,90 @@ Spend via Mariusz as **Upgrade Auditor** only. Examples: Null Cycling stabilizat
 * **Shell Restraint** / **Intent Lightness** — earned techniques for Iron+ to simulate normal force among mortals. Mariusz theory + Aeric execution; breakdown + monologue when unlocked.
 * Until then: he breaks things and learns.
 
-## 12. Document index
+## 12. Progression Phases — Frame → Core → Aspect → Multi-Core (Locked)
+
+> **Author intent (locked):** Meridian opening is the **early Mortal ladder**. Once **`108 / 108`**, that track is **done** — progression re-centers on **Core refinement**, **Aspect layers**, and (much later) **additional Cores**. Realm breakthroughs (Copper, Iron, etc.) can happen **before** the frame is full; full meridians and Realm peaks are related but not the same gate.
+
+### Phase map (what the reader feels on-page)
+
+| Phase | Primary STATUS hooks | What you’re actually doing |
+|-------|---------------------|----------------------------|
+| **I — Frame** *(early Unforged → mid Mortal)* | `Meridians X / 108`, Dantian Binding % *(Unstable)* | Open pathways; seed and pack the hollow; survive sediment |
+| **II — Core** *(Copper → Iron, frame still opening)* | Meridians **+** Binding % *(stable Core)*, Realm name | Condense and **refine** the single Core; Body Tempering; Binding % climbs per Realm |
+| **III — Aspect** *(Silver Domain band → Sovereign peak)* | Binding % at Realm cap, **Aspect stage**, `[ NEW TECHNIQUE ]` / trait stabilizations | **Intent / Aspect comprehension** becomes the main grind; project and deepen identity |
+| **IV — Multi-Core** *(Ascendant+ — author long-term)* | Core Count, auxiliary bind %, harvested core slots | Integrate **additional Cores** (Plunder path payoff); Mariusz **infers** — no early syllabus |
+
+*Book 1 lives in Phase I → early Phase II (Copper breakthrough). Do not put Phase III–IV terms in Aeric’s mouth until earned.*
+
+### `108 / 108` — Frame Complete
+
+When all **108 meridians** are cleared:
+
+* **Meridian Opening stops** as a progression game. The number stays **`108 / 108`**; no Channel 109.
+* **Cycling still uses them** — ambient draw, sediment flush, siphon delivery, technique execution.
+* **Primary reader-facing ladder shifts** to:
+  1. **Dantian Binding %** (Realm-scoped saturation toward **100%**)
+  2. **Core Refinement / Realm condensation** (Copper → Iron → …)
+  3. **Aspect Comprehension** (see below)
+* Optional Interface label (when earned): **Frame Complete** / **Meridian Lattice Sealed** — author pick at first on-page `108 / 108`.
+
+**Important:** Aeric can hit **Copper Core** around **~50+ meridians** (Book 1 climax). He does **not** need `108 / 108` for his **first** Realm jump. Full frame completion is a **separate milestone** inside Mortal Strata — usually finished between mid and late Mortal Realms, not on Day Zero’s todo list.
+
+### Dantian Binding **100%** (per Realm)
+
+**100% Binding** = the host’s **single Core** has fully packed its claim **for the current Realm’s capacity**.
+
+* It is **not** “win the universe.”
+* It is **not** the same as `108 / 108` meridians.
+* At **100%** within a Realm, further raw stuffing risks **rupture, sediment, or aspect fracture** unless the cultivator **breaks through** to the next Realm (denser Core geometry), **deepens Aspect comprehension**, or (Ascendant+) **adds another Core** to hold more identity/load.
+
+Binding % **re-scales** after major Realm condensation (new ceiling, same field name on STATUS).
+
+### Secondary Aspect on the Core (locked — mid/late Mortal → Ascendant)
+
+Aeric begins with **one primary Aspect:** **Null / Void** *(Unfurl)* on the **Hollow Origin** path.
+
+**Foundation Siphon** seeds this early via **Trait & Aspect fragment** theft — incomplete, unstable until Mariusz theory + repeated execution stabilize them (Pilfering seed **Rust & Void** toward Copper).
+
+**Later (author — not Book 1):** a mature single Core must **take on a second Aspect layer** — not a System dropdown. Requirements (all earned):
+
+1. **Frame Complete** (`108 / 108`) or near-complete — enough channels to carry dual identity load  
+2. **Primary Aspect** at a deep comprehension stage (beyond Unfurl)  
+3. **Stabilized fragment** from Foundation Siphon **or** deliberate Aspect forging at **Silver Domain+** pressure  
+4. Mariusz walkthrough + Aeric paying rupture/sediment cost on-page  
+
+**Fiction:** One Core, **two (or more) conceptual identities** in tension. Templates hard-cap before this; **Unsealed / Sovereign Plunder** is built to survive it — predatory integration, not harmony.
+
+**STATUS (when earned):** add **Secondary Aspect:** *(name — stage)* under Active Aspect; keep breakdown + Mariusz monologue rule.
+
+*Discovery POV:* Aeric learns “one Core, more than one truth in it” long after he learns “one hollow, one Aspect.”
+
+### Multiple Cores (locked — long-term / Ascendant+)
+
+**Mortal Strata default:** **one** Dantian, **one** personal Core. Beast **cores/seeds** are **harvest targets** (fuel, craft, breakthrough pressure) — not second hearts in the chest yet.
+
+**Long-term author intent (Aeric / Sovereign Plunder):** integrate **additional Cores** — auxiliary reservoirs bound to the same host (satellite Cores, harvested high-tier seeds welded into the foundation, etc.). Payoff for **Core Harvest** and predatory path identity.
+
+| Scope | Core model |
+|-------|------------|
+| **Book 1 – Mortal peak** | Single Core only |
+| **Ascendant+ (TBD names)** | Multi-Core possible; each Core may carry Aspect load or specialized function |
+| **Mariusz on-page** | **Infers** multi-Core necessity from nursery math — does not teach a step-by-step ladder |
+
+*Do not Scan dump “Core Count: 3” in Act I. Foreshadow only through harvested seeds, Mariusz bitter theory, and Interface errors when Aeric’s hollow “shouldn’t” hold what he steals.*
+
+### Aeric path sync (Sovereign Plunder)
+
+| Milestone | System beat |
+|-----------|-------------|
+| Act I | Meridians + Null Cycling + sediment |
+| Act I–II | Foundation Siphon; **Aspect fragments**; Meridian Theft |
+| Book 1 climax | **Copper Core** condensation (~50+ meridians) |
+| Mid series | **108 / 108** → progression UI shifts to Core + Aspect |
+| Silver+ band | **Secondary Aspect** integration on-page |
+| Ascendant+ | **Multi-Core** Plunder payoff |
+
+## 13. Document index
 
 * `@mc_sheet.md` — living STATUS, Pre-Day Zero, survival notes  
 * `@world_primer.md` — Day Zero author truth, Act map  

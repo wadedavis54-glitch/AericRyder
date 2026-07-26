@@ -115,7 +115,7 @@
 ## The Magic Reality
 
 * There are **no System Classes**, **no Classers**, **no skill loadouts**, and **no free stat handouts**. Power is built by hand.
-* Power belongs to those who learn **manual cultivation**: Cycling raw Aether through **108 Meridians**, filling the **Dantian**, refining a Core, and forging an **Aspect**.
+* Power belongs to those who learn **manual cultivation**: Cycling raw Aether through **108 Meridians**, filling the **Dantian**, refining a Core, and forging an **Aspect**. **After `108 / 108`**, meridian opening ends as the main ladder — progression shifts to **Core saturation**, **Aspect layers** (secondary Aspect on the same Core), and (Ascendant+) **multi-Core** integration. See `@system_mechanics.md` §12.
 * Unforged mortals begin with 90%+ Meridian clogging. Clearing them is agony. Most will flinch and die.
 * Guardians may offer **standard templates** (Warrior, Weaver, Warden, etc.) as handed-down stabilization scaffolds. Soft cages with hard caps **inside the Mortal Strata** (usually mid-tier). The unsealed/manual track is agony and keeps Ascension possible.
 * Aeric Ryder walks the **Path of the Hollow Origin** — Absolute Void / Entropy — and Cycles by **Devouring**. Soft humans are livestock when they choose to be. The ladder is endless. He wants the top.

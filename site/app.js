@@ -27,6 +27,12 @@ const CHAPTERS = [
     image: "./images/chapter_04.png",
     blurb: "Thirst, a full sediment burn, ground game on a Bramble-Cat, and a scream he didn't answer.",
   },
+  {
+    id: "5",
+    title: "Chapter 5 — First Fire",
+    file: "./chapters/chapter_05.md",
+    blurb: "Chrome sparks, boiled water, forage fail, first cooked eel, and a hello that died alone.",
+  },
 ];
 
 const ART = [
@@ -149,7 +155,7 @@ async function renderChapter(id) {
   content.innerHTML = `<p class="loading">Loading…</p>`;
 
   try {
-    const res = await fetch(`${chapter.file}?v=9`, { cache: "no-store" });
+    const res = await fetch(`${chapter.file}?v=10`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
     const markdown = await res.text();
     const imageHtml = chapter.image
@@ -179,7 +185,7 @@ if ("serviceWorker" in navigator) {
       .getRegistrations()
       .then((regs) => Promise.all(regs.map((r) => r.update())))
       .finally(() => {
-        navigator.serviceWorker.register("./sw.js?v=3").catch((err) => {
+        navigator.serviceWorker.register("./sw.js?v=4").catch((err) => {
           console.warn("Service worker registration failed:", err);
         });
       });

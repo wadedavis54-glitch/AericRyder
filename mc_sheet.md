@@ -16,15 +16,15 @@
 **Strength:** 12  
 **Dexterity:** 11  
 **Vitality:** 14 *(high survival instinct / pain tolerance)*  
-**Perception:** 13 *(Analytical Eye synergy)*  
+**Perception:** 14 *(Analytical Eye synergy; +1 meridian cluster @ 5/108 — Ch5)*  
 **Intelligence:** 12  
 **Wisdom:** 11  
 *Baseline human average is 10. No free attribute points. Gains are sourced only (innate, meridian clusters, tempering, siphon fragments, realm breakthrough) — log source on sheet.*
 
-**Meridians Cleared:** 5 / 108  
-**Dantian Binding:** 3.1% *(Seeded — Unstable)*  
+**Meridians Cleared:** 6 / 108  
+**Dantian Binding:** 3.4% *(Seeded — Unstable)*  
 **Aether Reserves:** Trace bound Null  
-**Aether Currency:** 17 *(upgrade resource — no Shop)*  
+**Aether Currency:** 20 *(upgrade resource — no Shop)*  
 **Sediment Load:** Trace *(monitor — light flush before next kill-contact siphon)*  
 
 ## Pre-Day Zero — Author Canon
@@ -130,6 +130,7 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 ## Inventory
 
 * **Snapped deadwood spear** *(improvised)* — picked up on field ejection before first Cur fight; used as kill weapon; palm-splintered, blood-slick
+* **Leaf-wrapped cooked eel** *(half ration — Ch5)* — eat before next night; no preservation skill
 
 ## Injuries / Conditions
 
@@ -137,6 +138,7 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 * **Shin rake + palm splinters** *(Carrion Beetle fight)* — partially sealed; mobility impaired
 * **Thigh laceration** *(Gnarl-Hound Ch3 → Bramble-Cat Ch4)* — Painful Reconstruction partial seal (Ch4); mobility preserved; infection risk reduced
 * **Claw lines — outer arm** *(Bramble-Cat, Ch4)* — fresh; weeping; not reconstructed (saved fuel)
+* **Calf rake — Sludge-Eel** *(Ch5)* — partial clot; mobility OK
 * **Prior:** minor crash glass cut / contusions before void tutorial
 * **Impure Aether Sediment — trace** *(Ch4 post-siphon)* — full manual flush completed Ch4; new trace after Bramble-Cat residue siphon
 * **Exhaustion / cumulative blood loss** — Day Zero cumulative; stabilized briefly post-Ch3 Cycle
@@ -148,6 +150,7 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 * Aether-Warped Carrion Beetle (Lvl 3) — ventral soft-seam; withdrew under pack pressure (2 remaining feeding)
 * Aether-Warped Gnarl-Hound (Lvl 2) — gut seam; residue-only siphon; core suppressed (Ch3)
 * Aether-Warped Bramble-Cat (Lvl 2) — throat seam; BJJ pin escape; residue-only siphon; core suppressed; Painful Reconstruction on thigh (Ch4)
+* Aether-Warped Sludge-Eel (Lvl 2) — ventral seam; coil break / pin; residue-only siphon; core suppressed; meat cooked + consumed (Ch5)
 
 ## Notes
 
@@ -156,9 +159,11 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 * Mariusz pushes hard paths as scholar + fate-bind; feeds Aeric theory (meridians, template flaws, cultivation math); Aeric proves it under fire. Analytical Eye still picks long-term absolute power.
 * **Every new skill/ability:** effect breakdown + short Mariusz monologue.
 * **Path ladder (planned):** Null Cycling → Foundation Siphon → Rust & Void (Pilfering seed) → Sovereign Plunder. More power than his Realm should allow; sediment/toxin wall is the brake.
+* **Long-term progression phases (§12 — locked):** Meridians `X / 108` until **Frame Complete**; then Core Binding % + Aspect comprehension; **secondary Aspect** on same Core (Silver+ band); **multi-Core** (Ascendant+ / Plunder payoff). Copper breakthrough does **not** require 108/108.
 * **Ch2 written (Pack Math):** Beetle kill + Weaver non-intervention + failed Channel 4 + overdraw impulse (core almost taken). Meridians **3/108**. Foundation Siphon still locked.
 * **Ch3 written (Sediment):** Sediment intro + partial burn; solo Gnarl-Hound kill; residue-only siphon (core suppressed); Channel 4 opened. Meridians **4/108**. Region tag partial (*Primeval density*). Foundation Siphon named but locked.
 * **Ch4 written (Bad Water):** Thirst + bad seep water (unboiled; Mariusz taint/boil theory); full sediment flush in bus shelter; Bramble-Cat ambush (BJJ hip escape / mount); residue siphon + Painful Reconstruction on thigh; Channel 5 opened; human echo (corpse/scavengers — non-intervention; Jonah guilt rhyme). Meridians **5/108**. Thirst reduced, not resolved.
+* **Ch5 written (First Fire):** Night in bus shelter; **+1 PER** cluster @ 5/108; fire from wreckage (Mariusz step-by-step); boiled water + reserve; forage fail (warp berries); Mariusz edibility lecture; Sludge-Eel kill + first **cooked** warp-beast meat; Channel 6 opened; human echo (distant hello cut short — non-intervention). Meridians **6/108**. Hunger/thirst reduced, not resolved. Fire craft established.
 * Next gates (Act I): unlock crude Foundation Siphon; clear **10–15** Meridians; first monster cores; learn local ground (**Shattered Primeval Forest**).
 * **Survival gates (Act I — see `@system_mechanics.md` §10):** Ch4–5 water; Ch5–7 food + first cooked beast meat; Ch6–8 crude craft; cores ≠ food.
 * **Mortal needs fade by Realm (§10):** Unforged = hungry/thirsty; Copper = reduced; Iron+ = optional (habit); Silver+ = breath/food as anchor only.
