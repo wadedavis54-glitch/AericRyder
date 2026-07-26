@@ -262,6 +262,25 @@ a:hover {
   margin-bottom: 0;
 }
 
+.chapter blockquote.status-block p {
+  margin: 0 0 0.35rem;
+}
+
+.chapter blockquote.status-block p:last-child {
+  margin-bottom: 0;
+}
+
+.chapter .stat-changed {
+  color: #f5d76e;
+  font-weight: 600;
+}
+
+.chapter .stat-was {
+  color: #c9b85c;
+  font-size: 0.92em;
+  font-weight: 400;
+}
+
 .chapter strong {
   font-weight: 600;
 }
