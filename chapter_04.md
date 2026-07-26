@@ -14,7 +14,7 @@ Trees grew through metal the way roots grew through bone—slow violence frozen 
 
 Analytical Eye tried to measure distance and got nonsense back—horizon too wide, sound carrying too clean, gaps between trunks wide enough for things he didn't have names for yet. Primeval density, the Interface had called it. Resolving. Like the world was still deciding what to call the knife it had turned itself into.
 
-His tongue stuck to the roof of his mouth.
+His tongue stuck to the roof of his mouth. His stomach had started noticing too—empty, cramping, the kind of hunger that said *food soon* without offering a menu.
 
 *Water first. Then whatever wants to eat me second.*
 
@@ -36,7 +36,9 @@ Aeric's jaw worked. He didn't drink.
 
 *Great. Apocalypse hydration tier list.*
 
-"If you had fire and time—boil it. Rolling boil drives off most surface biologics. It does **not** purify Aether-bound taint. Nothing in a nursery forest does, short of Copper Core stability or a filter you haven't built. Boiling is still better than raw. You have neither fire nor patience."
+"If you had fire and time—boil it. Rolling boil drives off most surface biologics. It does **not** purify Aether-bound taint. Nothing here is clean—not in a forest this warped, not until you hold a stable Core or build a filter you haven't got. Boiling is still better than raw. You have neither fire nor patience."
+
+*Stable Core. Filter. Listen to the checklist grow.*
 
 "I have thirst."
 
@@ -64,7 +66,9 @@ It tasted like pennies and bad decisions. His stomach clenched, considered rebel
 
 The shelter found him, not the other way around.
 
-A bus carcass lay on its side in a trough of torn earth—yellow paint scabbed off, windows blown to glitter in the loam. One ripped panel made a lean-to against root-mat; inside, dim green light and air that didn't carry his blood scent to every nose in the county.
+A bus carcass lay on its side in a trough of torn earth—yellow paint scabbed off, windows blown to glitter in the loam. Same yellow as the commute. Wrong dirt. Wrong scale. He couldn't tell if roots had swallowed *his* bus or another man's identical death.
+
+One ripped panel made a lean-to against root-mat; inside, dim green light and air that didn't carry his blood scent to every nose downwind.
 
 *Commute. Forty strangers. Phone dead mid-scream.*
 
@@ -90,7 +94,7 @@ Aeric sat with his back to cold metal that might have been a seat frame once. Sp
 
 He pulled.
 
-Cool neutral ease slid into channels still scraped raw from Channel Four's birth. No corpse under his palm. No reward-rush. Just air, and the grit already inside scraping back.
+Cool neutral ease slid into channels still scraped raw from opening Channel Four earlier today. No corpse under his palm. No reward-rush. Just air, and the grit already inside scraping back.
 
 "Step three. Stop drawing. The poison is yours to evict, not the world's to replace."
 
@@ -100,7 +104,7 @@ He cut the pull.
 
 He pushed.
 
-Heat. Agony with no mind to hate—dead weight fighting eviction. Stubborn Will climbed the load and kept him counting. First meridian: burn, vent, spit of something wrong leaving his breath. Second: worse, then better. Third: his forearm cuts wept fresh as friction pulled blood to the surface. Fourth: the channel that had screamed open yesterday held under pressure.
+Heat. Agony with no mind to hate—dead weight fighting eviction. Stubborn Will climbed the load and kept him counting. First meridian: burn, vent, spit of something wrong leaving his breath. Second: worse, then better. Third: his forearm cuts wept fresh as friction pulled blood to the surface. Fourth: the channel that had screamed open hours ago held under pressure.
 
 Again.
 
@@ -230,67 +234,19 @@ Not the leech-high. Not sediment burn. **Reconstruction**— stolen life forced 
 
 <p><strong>Cost:</strong> Bound Null spent; residue siphon yield reduced</p>
 
-</blockquote>
+<p><strong>Hostile Eliminated:</strong> Aether-Warped Bramble-Cat (Lvl 2)</p>
 
-He rolled off the corpse and checked the Interface because numbers didn't shake.
+<p><strong>Aether Currency:</strong> <span class="stat-changed">17</span> <span class="stat-was">(was 14)</span> — net +3 after reconstruction spend</p>
 
-<blockquote class="status-block">
-
-<p><strong>[ STATUS ]</strong></p>
-
-<p><strong>Name:</strong> Aeric Ryder</p>
-
-<p><strong>Race:</strong> Human</p>
-
-<p><strong>Cultivation:</strong> Null / Void *(Unfurl)* | <strong>Path:</strong> Hollow Origin *(Unsealed / Manual)*</p>
-
-<p><strong>Realm:</strong> Unforged (1st Realm)</p>
-
-<p><strong>Level:</strong> 1</p>
-
-<p><strong>Strength:</strong> 12</p>
-
-<p><strong>Dexterity:</strong> 11</p>
-
-<p><strong>Vitality:</strong> 14</p>
-
-<p><strong>Perception:</strong> 13</p>
-
-<p><strong>Intelligence:</strong> 12</p>
-
-<p><strong>Wisdom:</strong> 11</p>
-
-<p><strong>Meridians Cleared:</strong> 4 / 108</p>
-
-<p><strong>Dantian Binding:</strong> <span class="stat-changed">2.9%</span> <span class="stat-was">(was 2.7%)</span> *(Seeded — Unstable)*</p>
-
-<p><strong>Aether Reserves:</strong> Trace bound Null</p>
-
-<p><strong>Aether Currency:</strong> <span class="stat-changed">17</span> <span class="stat-was">(was 14)</span></p>
+<p><strong>Dantian Binding:</strong> <span class="stat-changed">2.9%</span> <span class="stat-was">(was 2.7%)</span></p>
 
 <p><strong>Sediment Load:</strong> <span class="stat-changed">Trace *(post-siphon — monitor)*</span> <span class="stat-was">(was Clear — full flush complete)</span></p>
 
-<p><strong>Traits:</strong></p>
-
-<p>— [Innate: Stubborn Will]</p>
-
-<p>— [Passive: Analytical Eye]</p>
-
-<p><strong>Techniques:</strong></p>
-
-<p>— [Null Cycling — Lvl 1]</p>
-
-<p><strong>Titles:</strong> *(none)*</p>
-
-<p><strong>Feats:</strong> *(none)*</p>
-
-<p><strong>Guardian:</strong> Mariusz *(fate-bound)*</p>
-
-<p><strong>Hostile Eliminated:</strong> <span class="stat-changed">Aether-Warped Bramble-Cat (Lvl 2)</span></p>
-
-<p><strong>Field Note:</strong> <span class="stat-changed">BJJ pin escape; residue-only siphon; core suppressed; Painful Reconstruction on thigh.</span></p>
+<p><strong>Field Note:</strong> BJJ pin escape; residue-only siphon; core suppressed.</p>
 
 </blockquote>
+
+He rolled off the corpse. The numbers flickered behind his eyes whether he wanted them or not.
 
 "Seventeen," Aeric muttered. "Three net after you made me sew myself with fire."
 
@@ -383,6 +339,12 @@ The smaller scavengers hadn't Scanned him yet. If he went in, noise would travel
 *Could've been anyone. Wasn't. Isn't.*
 
 The woman's hand twitched once. No weave. No template glow. Just fingers clawing fern-mat for a grip that wasn't there.
+
+His weight shifted toward the downslope before his brain finished the argument. Ball of foot. Knee bending. One step that would become two—and then he'd be in the bowl with mandibles and math he couldn't take back.
+
+He stopped.
+
+The half-step cost more than walking away would.
 
 Aeric's jaw locked.
 
