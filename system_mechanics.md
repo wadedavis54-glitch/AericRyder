@@ -95,10 +95,35 @@
 * Peak of the Mortal Shell. Local “universe concept” mastery from a nursery POV; cosmically still primary-school graduation.
 * Gate into **Ascendant Strata** (True Ascension) — details TBD; do not fully map Tier 2/3 yet.
 
-### Beyond Mortal Strata
+### Beyond Mortal Strata — author canon vs Mariusz on-page
 
-* **Ascendant** and **Architect** realm names/stages: fog until needed. Keep smoke: Soul Forging, Laws, World-Cores, Conduit Lords.
-* Mariusz view: reaching 6th is the bare minimum to survive what comes next — not the finish line.
+* **Author:** Ascendant + Architect tiers **exist** (see Cosmic tiers table §4). Realms 1–6 are not the universe end.
+* **Mariusz on-page:** **Teaches Mortal 1–6 confidently.** Above 6th = **genius inference**, not curriculum — see `.cursor/rules/mariusz-knowledge.mdc`.
+* **Numbered realm maps above 6th:** **TBD** when a book needs them.
+
+#### What Mariusz **infers** (not textbook)
+
+* **Something above Mortal** — template math, harvest behavior, Vellath peak humiliation, experiment **answer**.
+* **Hypothesized necessities** for leaving a nursery: Soul hardening, Law binding, World-Core scale — names may be his or Interface bleed.
+* **True Shops / trade** exist somewhere Mortal hosts were never meant to shop.
+* **6th Realm ≠ finish line** — from math + humiliation, not graduation ceremony.
+
+#### What Mariusz **does not have**
+
+* Fixed Ascendant realm ladder (7th–12th etc.).
+* First-hand Ascendant or Architect experience — he was a **scholar**, not a cosmic graduate.
+* Reliable Architect names/ranks — **dread + guilt** about what answered his lattice test.
+
+#### Author tiers (do not dump early)
+
+| Tier | Scope | Mariusz on-page |
+|------|-------|-----------------|
+| **Mortal 1–6** | Nursery / Foundation | **Teaches** |
+| **Ascendant** | Soul Forging, Laws, World-Cores, true Shops | **Infers / bitter smoke** |
+| **Architect** | Conduit Lords, System machinery | **Fear + experiment trauma** |
+
+* **Sovereign Plunder** = Aeric's **path**, not Architect tier name.
+* Interface terms (*Grade-1 Raw Conduit Material*) may appear — Mariusz **hates** them because Vellath never taught them.
 
 ## 5. Progression Paths (No Classes / No Classers)
 
@@ -136,7 +161,7 @@ There are **no System Classes**, **no Classers**, **no skill slots**, and **no f
 
 ### Evolution ladder (Book 1)
 
-1. **`[Null Cycling]`** — pulls raw Ambient Aether from the air, and, via direct touch on a dying target, catches their fleeing life-Aether before it scatters; breaks both into raw Null fuel through agony. *(Unlocked Day Zero.)*
+1. **`[Null Cycling]`** — pulls raw Ambient Aether from the air (draw is **neutral/easy**), and via direct touch on a dying target catches fleeing life-Aether (draw is **pleasurable**); breaks both into raw Null fuel. Sediment flush and Meridian Opening carry their own separate pains. *(Unlocked Day Zero.)*
 2. **`[Foundation Siphon]`** — via the same touch-on-dying-body contact, a deeper predatory rip of a target’s internal foundation. *(Act I mastery; unlock in stages, update sheet when earned.)*
 3. **Pilfering Aspect seed (Rust & Void)** — as the Dantian bind densifies toward a Core, bound Null gains erosive, predatory quality: strip guards, erode incoming attacks, skim mid-combat. *(Foreshadow mid-Book 1; crystallize toward Copper breakthrough.)*
 4. **Sovereign Plunder** — mature Pilfering Aspect identity (later books / late Book 1 edges only).
@@ -332,4 +357,91 @@ Spend via Mariusz as **Upgrade Auditor** only. Examples: Null Cycling stabilizat
 2. **Do not** grant Level or stat changes without updating `@mc_sheet.md` and citing source.
 3. **Scan Level** on mobs remains spawn tier; compare to Aeric’s Index for fight math, not fairness.
 4. Aeric’s **[ STATUS ]** always shows Level, but it may lag behind his real lethality — intentional.
+
+## 10. Mortal Needs — Food, Water, Breath (Locked)
+
+> **Siphon ≠ calories.** Null Cycling / residue leech feeds **bound Aether**, not the stomach. Aeric can feel **fed** by the leech’s rush and still **starve**. Discovery POV: he notices absences before Mariusz names the theory.
+
+### What moves the needle
+
+**Realm + Core stability** gate mortal needs first; **frame stats** modulate how long an Unforged body endures hardship.
+
+| Realm | Food | Water | Breath |
+|-------|------|-------|--------|
+| **1st Unforged** | **Required.** Normal hunger; Act I survival pressure real. | **Required.** Dehydration + wound risk. | Normal |
+| **2nd Copper Core** | **Reduced.** One meal may stretch **days** with active Cycling; still **wants** food. | Reduced | Longer breath-holds under load |
+| **3rd Iron Core** | **Optional for weeks.** Eats from **habit**, taste, memory (table with Wade), not need. | Mostly optional | Extreme holds; still breathes in fights from **habit** |
+| **4th Silver Domain** | **Not required** in nursery zones; keeps eating so he feels human | Same | Same — *“I know I don’t need to.”* |
+| **5th–6th Gold / Sovereign** | **Habit / anchor only** | Same | Same — psychological tether to meat |
+| **Ascendant+** | Different biology — fog until mapped | — | — |
+
+### Prose rules
+
+1. **Book 1 (Unforged → Copper):** hunger, thirst, and breath matter on-page; monster meat / water beats are Act I survival, not optional flavor.
+2. **Post–Copper Core:** first beat = *Why am I not hungry?* — Mariusz explains Core feeding the frame.
+3. **Iron+:** optional comedy/tragedy — eats because Wade did, realizes mid-meal he didn’t need it; exhales after a fight he held through **because silence felt wrong**.
+4. **Never** let siphon replace food without commenting on the wrongness once Aeric knows the difference.
+
+### Act I survival gates (author — Ch4–10)
+
+| Chapter band | Survival focus |
+|--------------|----------------|
+| **Ch4–5** | **Water** — find, risk, Mariusz taint/boil theory; no `[Survival Skill]` UI |
+| **Ch5–7** | **Food** — forage fail → Mariusz edibility lecture → first **cooked** warp-beast meat (gross, necessary) |
+| **Ch6–8** | **Crude craft** — bone, hide, fire; cores = fuel/craft **after Foundation Siphon**, **not food** |
+| **Ch7–10** | Needs ease slightly as meridians/Cycle improve; **full mortal independence not gone** until Copper |
+
+## 11. Frame Restraint — Stats vs Normal Movement (Locked)
+
+> High **frame** stats alone do not instantly break walking. **Realm reinforcement**, **bound Aether density**, and **lack of restraint training** combine. Scaffold hosts at the same number ≠ unsealed hosts at the same number.
+
+### Frame load (author shorthand)
+
+**Frame avg** = average of **STR + DEX + VIT** (the three that govern mass, impact, and load). Use for restraint checks when narrating mundane interaction.
+
+### Stat bands — mundane life
+
+*Baseline human average = **10**. Aeric Day Zero ≈ **12–14** — athletic, still normal.*
+
+| Single stat or frame avg | Mundane movement / touch |
+|--------------------------|---------------------------|
+| **10–14** | Normal human variance. Aeric **Ch1–Act I early**. |
+| **15–19** | Enhanced — faster recovery, harder hits. Walks fine. **Grip oops:** crushed cup, torn handle, snapped haft. |
+| **20–24** | **Active restraint needed.** Weak floors creak; mud sinks; misjudged sprint. Still walks — must **think about force**. Late Unforged / fresh **Copper Core**. |
+| **25–29** | **Hard to walk “normal.”** Steps chip stone; stairs groan; doors splinter if opened carelessly. **Early Iron Core** without **Shell Restraint** (technique TBD). |
+| **30–39** | **Iron Core / tempered shell.** Mortal-built spaces require **Intent Lightness** or wilderness. Food/breath mostly optional. |
+| **40–49** | **Silver Domain.** “Walking” is habit; real travel = burst / glide / intent. |
+| **50+** | **Gold / Sovereign** — **active suppression** among mortals or everything breaks. |
+
+### What breaks first (on-page order)
+
+1. **Grip failure** (~STR **16+**) — objects, spears, hands  
+2. **Footfall damage** (~STR/VIT **20+**) — cracked stone, sunk mud  
+3. **Speed mismatch** (~DEX **20+**) — corner misjudgment, too-fast sprint  
+4. **Restraint crisis** (~frame avg **25+**, Iron Core) — **hard to move among human craft**  
+5. **Mortal needs optional** — **after Copper**, largely gone by **Silver**
+
+### Aeric pacing vs bands (author)
+
+| Milestone | Rough frame avg | Normal walking? |
+|-----------|-----------------|-----------------|
+| **Now (~4 meridians)** | ~12 | Yes |
+| **Act I end (~15 meridians)** | ~14–16 | Yes; minor grip oops |
+| **Book 1 Copper Core** | ~16–20 | Enhanced; **not** god-walk |
+| **Mid Book 2 / Iron Core** | ~22–28 | **Restraint arc begins** |
+| **Silver+** | ~30+ | Walking as performance |
+
+*Book 1 does **not** hit “hard to walk normal.” One-scene **tease** OK (post-cluster temper — rotten wood, cup, door).*
+
+### Restraint techniques (future — not Act I)
+
+* **Shell Restraint** / **Intent Lightness** — earned techniques for Iron+ to simulate normal force among mortals. Mariusz theory + Aeric execution; breakdown + monologue when unlocked.
+* Until then: he breaks things and learns.
+
+## 12. Document index
+
+* `@mc_sheet.md` — living STATUS, Pre-Day Zero, survival notes  
+* `@world_primer.md` — Day Zero author truth, Act map  
+* `.cursor/rules/aeric-backstory.mdc` — memory splinters  
+* `.cursorrules` — prose enforcement
 

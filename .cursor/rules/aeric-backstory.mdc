@@ -1,0 +1,56 @@
+---
+description: Aeric Ryder pre-Day Zero canon and memory-splinter prose rules
+globs: chapter_*.md,site/chapters/*.md
+alwaysApply: true
+---
+
+# Aeric Ryder — Backstory & Memory Splinters
+
+Full author canon: `@mc_sheet.md` → **Pre-Day Zero — Author Canon**. Never wiki-dump; splinters only.
+
+## Locked canon (summary)
+
+**Maria Ryder (mother)** — cancer; died when Aeric was **3**. Was **~28–30** (same age Aeric is now). Closer than close; memory stuck. Growing up he **spoke to her ghost** — others thought crazy or messing around. Occasional one-line internal *Mum* / *Maria* in prose OK; **no** Act I séance scenes; **do not** confirm supernatural yet.
+
+**Wade Ryder (father)** — **34 years older** (~early 60s Day Zero). Single dad. Aeric **loves him**. **Animal** — forced **BJJ from age 5**, forced **compete**. Wade’s **motorcycle accident** → Aeric **never trained again**. Survival **unknown** Day Zero. **Later character maybe** — do not introduce until earned.
+
+**Cohen** — best friend from school; **stayed close**. Survival unknown Day Zero.
+
+**BJJ black belt** — could’ve been prodigy; **rusted** since accident. **Primary** fight-memory rhymes (frames, grips, mount, escapes). Rugby = secondary (hated compulsory PE).
+
+## When to use past (Act I)
+
+**Yes — 1–2 lines, inside the action, then survival:**
+
+* Clinch / pin / ground / choke line → **BJJ** (*Wade’s voice. Hip escape. Don’t give your back.*)
+* Sloppy pile / mud tackle → **rugby** (hated it; worse now)
+* Bus wreckage / metal in loam → commute, office
+* Slow death / hospital smell → **Maria** (rare, sharp)
+* Get up / don’t quit → **Wade** (*Is he alive? Move.*)
+* Horrific absurdity → **Cohen** (*You’d never believe this. You alive?*)
+* One beat to the dead → *Maria—* / *Mum—* then cut
+
+**No:**
+
+* Full flashback scenes (Act I).
+* Explaining backstory to Mariusz or the reader unprompted.
+* Melodrama every time someone dies.
+* Wade or Cohen on-page reunion without author gate.
+* Confirming Maria’s ghost is real in narration.
+
+## Format
+
+* Deep third limited; Zack-style internal voice.
+* Splinter mid-beat — not a paragraph pause before action resumes.
+* Discovery POV unchanged.
+
+## Environment splinters
+
+* Wrong scale, buried metal, Aether pockets — survival-tied; Aeric misreads. No wiki dumps.
+
+## Also reference
+
+* `@mc_sheet.md` — stats, injuries, kill log, Pre-Day Zero canon.
+* `.cursor/rules/prose-chapters.mdc` — sensation, STATUS layout, Mariusz steps.
+* `.cursor/rules/act1-survival.mdc` — water/food/craft/people gates.
+* `.cursorrules` — master enforcement.

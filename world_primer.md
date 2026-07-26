@@ -18,9 +18,11 @@
 
 * **Tier 1 — Mortal Strata (Realms 1–6):** Foundation / Mortal Shell. Cap for tutorial worlds. Full realm table in `@system_mechanics.md`.
 * **Tier 2 — Ascendant Strata:** True cosmos — Soul Forging, Laws, World-Cores, trade hubs, Shops.
-* **Tier 3 — Architect Strata:** Conduit Lords / System framework entities. *(Not called “Sovereign Strata” — path name **Sovereign Plunder** stays distinct.)*
-* To a fresh human, Gold Lord / Aether Sovereign feels like godhood. To high-tier cosmos, **6th Realm = finished primary school**.
-* **Vellath grading (SPOILER tone):** Peak Vellath experts at 5th/6th thought themselves gods; the System logged the population as **Grade-1 Raw Conduit Material**. Fuels Mariusz’s bitterness. Imply; confess later.
+* **Tier 3 — Architect Strata:** Conduit Lords / System framework entities. *(Not “Sovereign Strata” — path **Sovereign Plunder** stays distinct.)*
+* To a fresh human, Gold Lord / Aether Sovereign feels like godhood. To the harvest, **6th Realm = finished primary school**.
+* **Mariusz on-page:** teaches **Mortal 1–6**; **infers** tiers above via genius + trauma — **not** a cosmic syllabus. See `.cursor/rules/mariusz-knowledge.mdc` and `@system_mechanics.md` §4 Beyond.
+* **Author canon:** Ascendant + Architect tiers **exist**; numbered maps above 6th = TBD.
+* **Vellath grading (SPOILER tone):** Peak Vellath experts at 5th/6th thought themselves gods; the System logged them as **Grade-1 Raw Conduit Material**. Mariusz may **learn the term from Interface**, not Vellath school. Fuels bitterness. Imply; confess later.
 
 ### Local environment (Book 1)
 

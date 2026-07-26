@@ -1,0 +1,55 @@
+---
+description: Act I survival needs, craft, human encounters, Chapter 4+ gates
+globs: chapter_*.md,site/chapters/*.md
+alwaysApply: true
+---
+
+# Act I Survival & Encounter Gates
+
+Full mechanics: `@system_mechanics.md` §10 (needs), §11 (frame restraint).
+
+## Siphon ≠ food
+
+Leech feels good; it is **not** calories. Hunger and thirst stay real in Unforged. Aeric can feel fed by the rush and still starve.
+
+## Chapter-band gates (locked)
+
+| Band | Focus |
+|------|--------|
+| **Ch4–5** | **Water** — find, risk dirty source; Mariusz taint/boil **theory** (no Survival Skill UI) |
+| **Ch5–7** | **Food** — forage fail → Mariusz edibility lecture → first **cooked** warp-beast meat (gross, necessary) |
+| **Ch6–8** | **Crude craft** — bone knife, hide wrap, fire; **cores = fuel/craft after Foundation Siphon**, **never food** |
+| **Ch7–10** | Needs ease slightly; full mortal independence **not** gone until **Copper Core** |
+
+## Monster corpses
+
+* Aeric has **no butchery skill** — Mariusz offers **scholar insight** (avoid glands, burn meat, warp-taint).
+* No `[Butchery Lvl 1]` unless earned later through repetition + Auditor.
+* Eating raw ichor/glands = parasite / sickness risk (Vitality buys slack, not immunity).
+
+## Human contact schedule
+
+| Band | On-page |
+|------|---------|
+| **Ch4–6** | Echoes only — screams cut short, corpses, scavengers on remains; **no rescue**; Jonah guilt rhymes |
+| **Ch7–9** | Distant survivors (silhouettes, overheard fights); optional **one** brief contact — may go wrong |
+| **Ch10** | Smoke, trails, fire — humans forming patterns; Act II door |
+| **Ch11+** | Act II — templates vs unsealed, real conflict |
+| **Not until gated** | Cohen reunion, Wade on-page, Idealistic Rival |
+
+## Chapter 4 outline (author default)
+
+1. Wrong forest / wreckage splinters + **water beat**
+2. Mariusz **full sediment flush** (step-by-step)
+3. Fight — new mob, **BJJ** body memory, residue-only siphon (Option A — core suppressed)
+4. **Meridian 5** attempt (Mariusz guided; success default)
+5. Human echo (corpse/scream) — no meeting
+6. STATUS with yellow diffs vs Ch3 end
+
+## Mortal needs fade by Realm (summary)
+
+Unforged = hungry/thirsty → Copper reduced → Iron+ food optional (habit) → Silver+ breath/food as anchor. See §10.
+
+## Frame restraint (summary)
+
+Book 1: normal walking (~frame avg ≤20). "Hard to walk normal" ~**25+** / **Iron Core** without Shell Restraint. See §11.

@@ -1,0 +1,70 @@
+---
+description: Prose style, Mariusz teaching beats, STATUS/CYCLE layout, environment splinters
+globs: chapter_*.md,site/chapters/*.md
+alwaysApply: true
+---
+
+# Prose & Chapter Writing Rules
+
+## Readability
+
+* **Simpler prose in action scenes** — shorter sentences, plain words, fast flow. Save density for Aeric's internal voice, not narration soup.
+* Live in Aeric's head first; action second. Zack-style internal dialogue: questions, bitter jokes, option-weighing.
+
+## Null Cycling sensation (locked — do not blur)
+
+| Action | Sensation |
+|--------|-----------|
+| **Ambient draw** (air into hollow) | **Neutral / easy** — not painful |
+| **Touch-leech** (dying target, bare skin) | **Pleasurable** dark rush — addiction hook |
+| **Sediment flush** (push mud out) | **Agony** — friction / molten-wire drag |
+| **Meridian Opening** (force new path) | **Separate friction-pain** — not leech pain |
+| **Painful Reconstruction** (heal with stolen vitality) | **Agony** after the good leech |
+
+*Ch1 technique block still says ambient is agonizing — align on next Ch1 pass.*
+
+## Mariusz teaches step-by-step
+
+When Aeric learns or repeats a **new or risky procedure** (sediment burn, meridian open, first butcher pass):
+
+1. Mariusz **stops him** if he's guessing — *"You don't know this yet. Listen."*
+2. **Numbered steps** — find hollow → draw ambient → don't overdraw → push/vent/etc.
+3. Aeric executes **during** the steps, not before.
+4. Never let Aeric **just know** a technique without prior void tutorial or Mariusz walkthrough.
+
+## No Shop
+
+* **Never** mention shop, marketplace, or mercy aisle in Mariusz dialogue or Aeric thoughts unless explicitly deconstructing a **false expectation**.
+* Upgrade Auditor / Aether Currency ≠ a store UI.
+
+## Environment (Discovery POV)
+
+* One sharp **survival-tied** detail every few pages: wrong scale, buried metal (bus, car door, sign), Aether-thick pockets, sound layers.
+* Aeric **misreads** scale and wreckage — no omniscient ×1000 exposition.
+* Do not wiki-name **Shattered Primeval Forest** until earned.
+
+## Memory splinters
+
+See `.cursor/rules/aeric-backstory.mdc`. **1–2 lines**, trigger → past → **back to now**. No Act I flashback scenes.
+
+## STATUS / CYCLE AUDIT layout (site + chapters)
+
+Use HTML blockquote for reader site (yellow diffs):
+
+```html
+<blockquote class="status-block">
+<p><strong>[ STATUS ]</strong></p>
+<p><strong>Name:</strong> Aeric Ryder</p>
+<p><strong>Meridians Cleared:</strong> <span class="stat-changed">5 / 108</span> <span class="stat-was">(was 4 / 108)</span></p>
+...
+</blockquote>
+```
+
+* **One field per line** (`<p>` each).
+* **Changed values** since last STATUS in chapter: `<span class="stat-changed">` + `<span class="stat-was">(was …)</span>`.
+* Sync all numbers to `@mc_sheet.md`.
+* New skills: `[ NEW TECHNIQUE ]` breakdown + Mariusz monologue immediately after.
+
+## Siphon on-page (always)
+
+Kill with weapon → **separate beat** → bare palm on **dying** flesh → leech. Never off weapon still in wound.

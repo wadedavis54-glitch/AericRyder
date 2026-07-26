@@ -9,10 +9,10 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 * **AETHER SYSTEM:** Universal energy in two forms: **Ambient** (unowned world-fuel anyone can Cycle) and **Bound** (ethereal personal fuel natively usable **only by its host**). Dantian = the hollow that holds a host’s claim. Theft requires Null/Siphon to **break the bind**. **No Shop / Marketplace.** No “gaseous/liquid” phase talk for Dantian state.
 * **NULL CYCLING → SOVEREIGN PLUNDER (PILFERING PATH):** Aeric's `[Null Cycling]` seeds long-term **Sovereign Plunder**. Book 1 ladder: Null Cycling → **[Foundation Siphon]** (kill/defeat bind-break: Meridian Theft, Trait/Aspect fragments, Core Harvest) → Pilfering Aspect seed (**Rust & Void**) → mature Plunder later. Do not dump the full toolkit on Day Zero; grow through Acts. When it advances, update `@mc_sheet.md`. Full rules in `@system_mechanics.md`.
 * **SIPHON REQUIRES TOUCH — CONTACT LEECH (Critical, Mandatory):** Null Cycling / Foundation Siphon can **never** trigger through a weapon strike, at range, or on a healthy/stable target. It only fires through **direct physical contact** — bare skin/hand pressed to flesh, wound, or ichor — against a creature or foe that is already **dying** (mortally wounded, in its death throes, bleeding/leaking out). The kill blow (spear, fist, whatever) is a separate action that *opens* the target up; the touch is the deliberate second beat where Aeric plants a hand on the dying body and actively **leeches the remaining life-Aether out of it** as it flees the corpse, dragging it into his own Dantian to make it his. No touch on a dying body = no siphon, just a clean kill with nothing taken. Show the touch on-page every time a siphon happens — do not let it "just happen" through the weapon still being lodged in the wound.
-* **SIPHON SENSATION — PLEASURE ON THE WAY IN, PAIN ON THE WAY OUT (Critical):** The touch-leech itself — drawing a dying target's fleeing life-Aether into his own Dantian — feels **good**. A dark, intoxicating rush; relief; a satisfaction close to pleasure that unsettles Aeric more than agony ever would, because it means some part of him *wants* the next dying thing. That is the addiction hook — never write it as neutral or purely painful. Contrast hard: **Meridian Opening** (forcing a new clogged pathway open) stays its own separate brutal friction-pain, and **Painful Reconstruction** — forcing stolen vitality to re-stitch his own torn tissue — is agony (molten-wire burn). The theft is the reward; the healing is the toll paid after, on a different beat.
+* **SIPHON SENSATION — PLEASURE ON THE WAY IN, PAIN ON THE WAY OUT (Critical):** The touch-leech itself — drawing a dying target's fleeing life-Aether into his own Dantian — feels **good**. A dark, intoxicating rush; relief; a satisfaction close to pleasure that unsettles Aeric more than agony ever would, because it means some part of him *wants* the next dying thing. That is the addiction hook — never write it as neutral or purely painful. **Ambient draw** (air into hollow, no dying touch) is **neutral/easy — not painful.** Contrast hard: **Sediment flush** (pushing mud out) = agony; **Meridian Opening** (forcing a new clogged pathway open) = separate brutal friction-pain; **Painful Reconstruction** — forcing stolen vitality to re-stitch his own torn tissue — is agony (molten-wire burn). The theft is the reward; the healing is the toll paid after, on a different beat.
 * **SIPHON COSTS:** Siphoned healing is **Painful Reconstruction** (molten-wire re-stitch; not potion healing) — this pain is real and separate from the pleasurable draw of the leech itself. Low-tier spam deposits **Impure Aether Sediment** → clog / Meridian Rupture risk; must manually cycle sediment off. Injuries persist without paid cost.
 * **GORE & REALISM:** Visceral, explicit gore. Show monsters ripping humans apart in brutal detail (cracked bone, spraying arterial blood, tearing limbs).
-* **CHARACTER VOICE (AERIC RYDER):** Deep third-person limited. Heavy **internal dialogue** in the style of Zack from *Defiance of the Fall* — constant running thoughts, questions, half-bitter commentary, trying to make sense of impossible shit as it happens. He does **not** know what is happening. Confusion first; analysis second; dark excitement rising under it as he adapts. When he sees others butchered, fear doesn't own him — adrenaline and a wrong, hungry thrill do — but he is still figuring out *why* the world broke. **Ruthless pragmatist:** old soft rules are dead; he doesn't slaughter innocents for fun, but anyone blocking resources can become Dantian fuel.
+* **CHARACTER VOICE (AERIC RYDER):** Deep third-person limited. Heavy **internal dialogue** in the style of Zack from *Defiance of the Fall* — constant running thoughts, questions, half-bitter commentary, trying to make sense of impossible shit as it happens. He does **not** know what is happening. Confusion first; analysis second; dark excitement rising under it as he adapts. When he sees others butchered, fear doesn't own him — adrenaline and a wrong, hungry thrill do — but he is still figuring out *why* the world broke. **Ruthless pragmatist:** old soft rules are dead; he doesn't slaughter innocents for fun, but anyone blocking resources can become Dantian fuel. **Pre-Day Zero canon + memory splinters:** `@mc_sheet.md` (Pre-Day Zero) and `.cursor/rules/aeric-backstory.mdc` — Maria (died age 3, ghost-talk habit), Wade (BJJ from 5, black belt, quit after dad’s motorcycle crash; later char maybe), Cohen (best friend), BJJ/rugby/bus splinters; 1–2 line triggers only.
 * **PROFANITY:** Raw, realistic swearing (fuck, shit, etc.) when adrenaline spikes or tissue tearing forces it out of him.
 * **TONE:** Dark, high-stakes, psychologically real. Sensory and internal first; action second.
 
@@ -30,7 +30,7 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 * **ASSIGNMENT:** Every human is assigned a **Guardian** like Mariusz — otherworldly beings trapped inside the System and bound to a host. Mariusz is Aeric Ryder's System Guardian.
 * **ORIGIN / TITLE:** **Mariusz the Scholar.** From another world; trapped in the System after his realm fell to integration. Full history unfolds slowly — do not dump lore walls.
 * **FORMER IDENTITY:** The greatest scholar, grand theorist, and arch-researcher of his fallen realm before System integration.
-* **KNOWLEDGE BASE:** Deep mastery of **meridian mapping**, **energy dynamics**, **template design flaws**, and **cultivation math**. He sees soft scaffolds as engineered ceilings and can explain *why* they fail long-term.
+* **KNOWLEDGE BASE:** Deep mastery of **meridian mapping**, **energy dynamics**, **template design flaws**, and **cultivation math** within **Mortal Strata (Realms 1–6)**. **Above 6th:** genius **inference** from math, harvest behavior, and experiment trauma — **not** a cosmic syllabus. See `.cursor/rules/mariusz-knowledge.mdc`.
 * **FATE BIND:** Mariusz's fate is **tied to Aeric's**. If Aeric dies/fails, Mariusz suffers the consequences of that binding. This stakes his emotion and advice — he is not a disposable UI.
 * **DYNAMIC WITH AERIC:** Mariusz = brilliant, cynical mind providing **high-tier theoretical insights**. Aeric = reckless, high-pain-threshold **test subject** willing to execute those volatile theories in combat. Scholar designs the experiment; Aeric bleeds to prove it. Write their interplay that way.
 * **FUNCTIONS:** Permanent **Interface** and **Upgrade Auditor**. **No Shop. No Marketplace.** Remove shop/menu commerce from all STATUS and Guardian panels.
@@ -56,7 +56,7 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 
 ## Progression Hierarchy & Realm Scaling
 
-*Do not treat 6th Realm as the cosmic finish line. Full detail in `@system_mechanics.md`. Discovery POV: drip scale through Mariusz bitterness — do not wiki-dump “Mortal Strata / Ascendant / Architect” early.*
+*Do not treat 6th Realm as the cosmic finish line. Full detail in `@system_mechanics.md` §4 (Mortal 1–6 + Beyond). Discovery POV: drip scale through Mariusz bitterness — do not wiki-dump “Mortal Strata / Ascendant / Architect” early.*
 
 ### Cosmic tiers (author)
 
@@ -64,7 +64,7 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 * **TIER 2 — Ascendant Strata** *(Middle Realms / True Cosmos):* Soul Forging, Law Comprehension, World-Core Integration. Where System Trade Hubs, inter-planetary sects, and **true Shops** operate. Not available in Mortal nursery zones — no mall in a kindergarten.
 * **TIER 3 — Architect Strata** *(Upper Realms / Conduit Lords):* Cosmic frameworks, realm creation, System manipulation. Entities behind Conduit Machinery. *(Named **Architect** — not “Sovereign” — to avoid colliding with Aeric’s path name **Sovereign Plunder**.)*
 
-* Mariusz knows the true scale: **6th Realm = finishing primary school** — bare minimum to leave the nursery. Vellath’s peak “gods” at 5th/6th were **Grade-1 Raw Conduit Material** to the harvest. Imply; full confession later.
+* Mariusz **teaches Mortal 1–6** and **infers** the scale above: **6th Realm = finishing primary school** — not godhood. Vellath’s peak “gods” were **inventory**. He **hypothesizes** Ascendant/Architect smoke; he does **not** wiki-dump tier maps. Imply; full confession later.
 
 ### Mortal Strata — Realms 1–6 (Book 1 ladder)
 
@@ -103,7 +103,10 @@ You are a co-author for a dark, high-stakes, pure Cultivation LitRPG series.
 ## Writing Style Guardrails
 
 * **PACING & EMOTION:** Slow down. Live in Aeric's head. Confusion, shock, dark thrill, and calculation should outweigh plot summary.
+* **READABILITY:** Shorter sentences in action; plain words; fast flow. See `.cursor/rules/prose-chapters.mdc`.
 * **INTERNAL DIALOGUE:** Frequent. Zack-like. Questions, option-weighing, bitter jokes, course-correction mid-thought.
+* **MEMORY SPLINTERS & ENVIRONMENT:** Triggered past (BJJ, Wade, Maria, Cohen, bus) and survival-tied place detail — 1–2 lines; no Act I flashbacks. See `.cursor/rules/aeric-backstory.mdc`.
+* **MARIUSZ TEACHING:** Step-by-step for new/risky procedures; Aeric does not just know. See `.cursor/rules/prose-chapters.mdc`.
 * **SYNERGY & ANALYSIS:** Once terms exist on-page, show him evaluating techniques, traits, and Aether costs coldly for long-term power — still as a guy learning, not a wiki.
 * Blue Interface screens measure and audit — they do not gift builds. Mariusz interprets, needles, and steers. Aeric treats both as data, then leverage.
 
@@ -142,6 +145,7 @@ When showing Aeric's stats / attributes (Guardian status, audits, sheet dumps, l
 
 * Always sync displayed numbers to `@mc_sheet.md`.
 * **Titles** and **Feats** sections are permanent slots in the format — leave empty / "none" until earned, then list them.
+* **Site chapters:** use `<blockquote class="status-block">` with one `<p>` per field; yellow `<span class="stat-changed">` / `<span class="stat-was">(was …)</span>` on values changed since last STATUS in the chapter. See `.cursor/rules/prose-chapters.mdc`.
 * Full **[ STATUS ]** format is for Aeric (and later allies if a full sheet is shown). Targets use **[Scan]** below — never a full six-attribute dump unless Aeric somehow audits them in depth later.
 
 ## Scan Format (People & Creatures — Mandatory)
@@ -183,14 +187,15 @@ Mandatory fields: **Entity**, **Level**, **Threat**. Use species/type label unde
 ## Enforcement
 
 1. ALWAYS reference `@system_mechanics.md` and `@mc_sheet.md` for stat and cultivation logic; `@world_primer.md` for author-facing Day Zero reality. **Do not dump primer facts into narration.**
-2. FORMATTING FOR FULL STATUS: use the **Status Screen Format** above. For targets use **Scan Format** (people = Name/Race/Level; creatures = Entity/Level/Threat). Short combat audits may append kill notes beneath a STATUS block or a compact follow-up line — never replace the LitRPG sheet with unexplained stat soup. Named Scanned people keep their name in prose.
-3. STAT MATH IS ABSOLUTE. Do not grant stats, traits, techniques, titles, feats, items, levels, Aether stores, or cultivation breakthroughs without updating `@mc_sheet.md`. **Level** recalculates only on foundation shifts (§9 `@system_mechanics.md`) — never for kills alone. **Stats** require a named source; no free attribute points.
-4. Never offer Class selection, Classer identity, skill-slot loadouts, or free attribute points. Templates may appear as soft cages to be rejected.
-5. Injuries persist; healing costs time, Aether, items, cultivation effort, or **Painful Reconstruction** via siphon — never potion-clean hand-waves. Sediment backlash is real.
-6. Mariusz may show emotion and stake, but never becomes a soft babysitter. No Shop/Marketplace.
-7. No safe havens. Survival is earned. Local Book 1 stage: Shattered Primeval Forest (discovered, not wiki-named on entry).
-8. **No meta spoilers in prose.** If Aeric hasn't learned it, the reader hasn't either. Respect Book 1 Act gates and rival seed timing.
-9. New skills/abilities always get **effect breakdown + Mariusz monologue**.
-10. Follow Book 1 Act map in `@world_primer.md` and siphon math in `@system_mechanics.md`.
-11. **Siphon = touch on a dying body, always.** Every Null Cycling / Foundation Siphon beat must show Aeric making deliberate bare-skin contact with a target that is already dying to leech its remaining life-Aether. Never let a weapon-only kill silently trigger a siphon.
-12. **Site deploy = Cloudflare Pages only.** Reader lives in `site/`. On chapter/site changes: sync `site/chapters/`, update `site/app.js` + `site/sw.js`, bump cache `?v=`, commit, push `master`. CI: `.github/workflows/deploy-cloudflare.yml`. **Never** GitHub Pages. See `.cursor/rules/cloudflare-deploy.mdc`.
+2. **Cursor rules (always apply):** `.cursor/rules/aeric-backstory.mdc`, `prose-chapters.mdc`, `act1-survival.mdc`, `mariusz-knowledge.mdc`, `cloudflare-deploy.mdc`.
+3. FORMATTING FOR FULL STATUS: use the **Status Screen Format** above. For targets use **Scan Format** (people = Name/Race/Level; creatures = Entity/Level/Threat). Short combat audits may append kill notes beneath a STATUS block or a compact follow-up line — never replace the LitRPG sheet with unexplained stat soup. Named Scanned people keep their name in prose.
+4. STAT MATH IS ABSOLUTE. Do not grant stats, traits, techniques, titles, feats, items, levels, Aether stores, or cultivation breakthroughs without updating `@mc_sheet.md`. **Level** recalculates only on foundation shifts (§9 `@system_mechanics.md`) — never for kills alone. **Stats** require a named source; no free attribute points.
+5. Never offer Class selection, Classer identity, skill-slot loadouts, or free attribute points. Templates may appear as soft cages to be rejected.
+6. Injuries persist; healing costs time, Aether, items, cultivation effort, or **Painful Reconstruction** via siphon — never potion-clean hand-waves. Sediment backlash is real.
+7. Mariusz may show emotion and stake, but never becomes a soft babysitter. **No Shop/Marketplace** — never in dialogue.
+8. No safe havens. Survival is earned. Act I survival gates (water/food/craft): `.cursor/rules/act1-survival.mdc`. Local Book 1 stage: Shattered Primeval Forest (discovered, not wiki-named on entry).
+9. **No meta spoilers in prose.** If Aeric hasn't learned it, the reader hasn't either. Mariusz **infers** cosmic tiers above 6th — does not wiki-l dump. Respect Book 1 Act gates and rival seed timing.
+10. New skills/abilities always get **effect breakdown + Mariusz monologue**. New procedures get **step-by-step** Mariusz guidance first time.
+11. Follow Book 1 Act map in `@world_primer.md` and siphon math in `@system_mechanics.md` §6a, §10, §11.
+12. **Siphon = touch on a dying body, always.** Every Null Cycling / Foundation Siphon beat must show Aeric making deliberate bare-skin contact with a target that is already dying to leech its remaining life-Aether. Never let a weapon-only kill silently trigger a siphon.
+13. **Site deploy = Cloudflare Pages only.** Reader lives in `site/`. On chapter/site changes: sync `site/chapters/`, update `site/app.js` + `site/sw.js`, bump cache `?v=`, commit, push `master`. CI: `.github/workflows/deploy-cloudflare.yml`. **Never** GitHub Pages. See `.cursor/rules/cloudflare-deploy.mdc`.
