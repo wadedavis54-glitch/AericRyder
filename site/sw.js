@@ -1,5 +1,5 @@
 /* Aeric Ryder reader — offline shell + chapter cache */
-const CACHE = "aeric-ryder-v10";
+const CACHE = "aeric-ryder-v11";
 
 const PRECACHE = [
   "./",
@@ -12,6 +12,8 @@ const PRECACHE = [
   "./chapters/chapter_03.md",
   "./chapters/chapter_04.md",
   "./chapters/chapter_05.md",
+  "./chapters/chapter_06.md",
+  "./chapters/chapter_07.md",
   "./images/chapter_01.png",
   "./images/chapter_02.png",
   "./images/chapter_03.png",

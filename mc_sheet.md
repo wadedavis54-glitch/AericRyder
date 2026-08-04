@@ -21,11 +21,11 @@
 **Wisdom:** 11  
 *Baseline human average is 10. No free attribute points. Gains are sourced only (innate, meridian clusters, tempering, siphon fragments, realm breakthrough) — log source on sheet.*
 
-**Meridians Cleared:** 6 / 108  
-**Dantian Binding:** 3.4% *(Seeded — Unstable)*  
+**Meridians Cleared:** 8 / 108  
+**Dantian Binding:** 3.7% *(Seeded — Unstable)*  
 **Aether Reserves:** Trace bound Null  
-**Aether Currency:** 20 *(upgrade resource — no Shop)*  
-**Sediment Load:** Trace *(monitor — light flush before next kill-contact siphon)*  
+**Aether Currency:** 25 *(upgrade resource — no Shop)*  
+**Sediment Load:** Trace *(monitor — flush before next kill-contact siphon)*  
 
 ## Pre-Day Zero — Author Canon
 
@@ -129,20 +129,31 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 
 ## Inventory
 
-* **Snapped deadwood spear** *(improvised)* — picked up on field ejection before first Cur fight; used as kill weapon; palm-splintered, blood-slick
-* **Leaf-wrapped cooked eel** *(half ration — Ch5)* — eat before next night; no preservation skill
+* **Deadwood spear** *(improvised)* — cord-wrapped haft (Ch6); kill weapon; blood-slick
+* **Bone knife** *(vermin jaw — crude edge, Ch6)* — sinew-wrapped handle; secondary finish weapon
+* **Boiled water reserve** *(partial — Ch7 bus camp)* — stone cup; reboil when possible
 
 ## Injuries / Conditions
 
-* **Heavy lacerations — left forearm, ribs, thigh** *(Day Zero first field Cur)* — partially sealed; still weeping; infection risk elevated
+* **Heavy lacerations — left forearm, ribs, thigh** *(Day Zero first field Cur)* — forearm partially Reconstructed (Ch7 hound jaw); ribs/thigh legacy
 * **Shin rake + palm splinters** *(Carrion Beetle fight)* — partially sealed; mobility impaired
 * **Thigh laceration** *(Gnarl-Hound Ch3 → Bramble-Cat Ch4)* — Painful Reconstruction partial seal (Ch4); mobility preserved; infection risk reduced
 * **Claw lines — outer arm** *(Bramble-Cat, Ch4)* — fresh; weeping; not reconstructed (saved fuel)
 * **Calf rake — Sludge-Eel** *(Ch5)* — partial clot; mobility OK
+* **Shin rake — Thornback Vermin** *(Ch6)* — dorsal ridge; clotting; mobility OK
 * **Prior:** minor crash glass cut / contusions before void tutorial
 * **Impure Aether Sediment — trace** *(Ch4 post-siphon)* — full manual flush completed Ch4; new trace after Bramble-Cat residue siphon
 * **Exhaustion / cumulative blood loss** — Day Zero cumulative; stabilized briefly post-Ch3 Cycle
-* **Psychological:** left **Jonah Keller** (Human, Lvl 1, Weaver Template) to pack beetles after soft-seam kill / retreat — shame vs. dark thrill unresolved; Ch4 — walked away from dying stranger (beetle-ling scavengers); Jonah guilt rhyme reinforced
+* **Psychological:** left **Jonah Keller** (Human, Lvl 1, Weaver Template) to pack beetles after soft-seam kill / retreat — shame vs. dark thrill unresolved; Ch4 — walked away from dying stranger (beetle-ling scavengers); Ch5 — didn't answer distant hello; Ch6 — bypassed human corpse + beetles; Ch7 — watched **Dessa Kline / Cole Marsh** kill **Renzo Park** (Weaver) without intervention; Jonah guilt rhyme reinforced
+
+## Named Contacts *(Scan-confirmed)*
+
+| Name | Template | Level | Note |
+|------|----------|-------|------|
+| Jonah Keller | Weaver *(Scaffolded)* | 1 | Ch2 — left to beetles; guilt rhyme |
+| Dessa Kline | Warden *(Scaffolded)* | 1 | Ch7 — hostile; strips corpses; north trough |
+| Cole Marsh | Warrior *(Scaffolded)* | 1 | Ch7 — hostile; club; with Dessa |
+| Renzo Park | Weaver *(Scaffolded)* | 1 | Ch7 — killed by Dessa/Cole; non-intervention |
 
 ## Kill Log (Day Zero)
 
@@ -151,6 +162,8 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 * Aether-Warped Gnarl-Hound (Lvl 2) — gut seam; residue-only siphon; core suppressed (Ch3)
 * Aether-Warped Bramble-Cat (Lvl 2) — throat seam; BJJ pin escape; residue-only siphon; core suppressed; Painful Reconstruction on thigh (Ch4)
 * Aether-Warped Sludge-Eel (Lvl 2) — ventral seam; coil break / pin; residue-only siphon; core suppressed; meat cooked + consumed (Ch5)
+* Aether-Warped Thornback Vermin (Lvl 2) — throat seam; knee pin / spear; residue-only siphon; core suppressed; bone knife crafted from jaw (Ch6)
+* Aether-Warped Gnarl-Hound (Lvl 2) — gut seam; BJJ mount finish / bone knife; residue-only siphon; core nearly grasped — suppressed; Painful Reconstruction on forearm (Ch7)
 
 ## Notes
 
@@ -164,7 +177,9 @@ Trigger → **1–2 lines max** → back to now. No childhood flashback scenes i
 * **Ch3 written (Sediment):** Sediment intro + partial burn; solo Gnarl-Hound kill; residue-only siphon (core suppressed); Channel 4 opened. Meridians **4/108**. Region tag partial (*Primeval density*). Foundation Siphon named but locked.
 * **Ch4 written (Bad Water):** Thirst + bad seep water (unboiled; Mariusz taint/boil theory); full sediment flush in bus shelter; Bramble-Cat ambush (BJJ hip escape / mount); residue siphon + Painful Reconstruction on thigh; Channel 5 opened; human echo (corpse/scavengers — non-intervention; Jonah guilt rhyme). Meridians **5/108**. Thirst reduced, not resolved.
 * **Ch5 written (First Fire):** Night in bus shelter; **+1 PER** cluster @ 5/108; fire from wreckage (Mariusz step-by-step); boiled water + reserve; forage fail (warp berries); Mariusz edibility lecture; Sludge-Eel kill + first **cooked** warp-beast meat; Channel 6 opened; human echo (distant hello cut short — non-intervention). Meridians **6/108**. Hunger/thirst reduced, not resolved. Fire craft established.
-* Next gates (Act I): unlock crude Foundation Siphon; clear **10–15** Meridians; first monster cores; learn local ground (**Shattered Primeval Forest**).
+* **Ch6 written (Bone Edge):** Human corpse + beetle scavengers (bypass); Thornback Vermin kill; first **bone knife** + spear cord wrap (Mariusz step-by-step craft); Channel 7 opened; secondary seep marked. Meridians **7/108**.
+* **Ch7 written (Overheard):** Overheard template conflict — **Dessa Kline** (Warden) / **Cole Marsh** (Warrior) kill **Renzo Park** (Weaver); non-intervention; bus camp return; second cooked vermin; Gnarl-Hound kill — core threshold nearly grasped, Foundation Siphon suppressed; full sediment flush; Painful Reconstruction on forearm; Channel 8 opened; distant survivor fires sighted. Meridians **8/108**. Known hostiles logged.
+* Next gates (Act I): unlock **Foundation Siphon** (~10 meridians); clear **10–15** Meridians; first monster **core harvest**; learn local ground (**Shattered Primeval Forest**).
 * **Survival gates (Act I — see `@system_mechanics.md` §10):** Ch4–5 water; Ch5–7 food + first cooked beast meat; Ch6–8 crude craft; cores ≠ food.
 * **Mortal needs fade by Realm (§10):** Unforged = hungry/thirsty; Copper = reduced; Iron+ = optional (habit); Silver+ = breath/food as anchor only.
 * **Frame restraint (§11):** Book 1 stays normal walking (~frame avg ≤20); “hard to walk normal” lands **~25+ frame avg / Iron Core** without Shell Restraint.

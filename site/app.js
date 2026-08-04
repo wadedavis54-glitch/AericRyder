@@ -33,6 +33,18 @@ const CHAPTERS = [
     file: "./chapters/chapter_05.md",
     blurb: "Chrome sparks, boiled water, forage fail, first cooked eel, and a hello that died alone.",
   },
+  {
+    id: "6",
+    title: "Chapter 6 — Bone Edge",
+    file: "./chapters/chapter_06.md",
+    blurb: "Corpse math, a thornback vermin, first bone knife, and seven channels paid in friction.",
+  },
+  {
+    id: "7",
+    title: "Chapter 7 — Overheard",
+    file: "./chapters/chapter_07.md",
+    blurb: "Template warlords strip a Weaver, a hound tests the core threshold, and distant fires mean gangs.",
+  },
 ];
 
 const ART = [
@@ -155,7 +167,7 @@ async function renderChapter(id) {
   content.innerHTML = `<p class="loading">Loading…</p>`;
 
   try {
-    const res = await fetch(`${chapter.file}?v=10`, { cache: "no-store" });
+    const res = await fetch(`${chapter.file}?v=11`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
     const markdown = await res.text();
     const imageHtml = chapter.image
@@ -185,7 +197,7 @@ if ("serviceWorker" in navigator) {
       .getRegistrations()
       .then((regs) => Promise.all(regs.map((r) => r.update())))
       .finally(() => {
-        navigator.serviceWorker.register("./sw.js?v=4").catch((err) => {
+        navigator.serviceWorker.register("./sw.js?v=11").catch((err) => {
           console.warn("Service worker registration failed:", err);
         });
       });
